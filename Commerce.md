@@ -4,9 +4,9 @@
 
 - [x] Set up a new Django project and app (`auctions`).
 
-- [x]  Configure `settings.py` (e.g., install necessary apps like `crispy_forms` for better form handling).
+- [ ]  Configure `settings.py` (e.g., install necessary apps like `crispy_forms` for better form handling).
 
-- [x]  Set up the database (e.g., SQLite, PostgreSQL).
+- [ ]  Set up the database (e.g., SQLite, PostgreSQL).
 
 ### 2\. **Model Design**
 
