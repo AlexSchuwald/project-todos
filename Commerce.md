@@ -1,4 +1,4 @@
-# Commerce
+# commerce
 
 ### 1\. **Initial Setup**
 
