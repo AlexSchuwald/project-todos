@@ -10,7 +10,7 @@
 
 ### 2\. **Model Design**
 
-- [ ] Define the `AuctionListing` model.
+- [x] Define the `AuctionListing` model.
 
 - [ ]  Define the `Bid` model.
 
