@@ -26,11 +26,11 @@
 
 - [x]  Create a superuser using `createsuperuser`.
 
-- [ ]  Test the Django admin interface to ensure models are correctly registered and manageable.
+- [x]  Test the Django admin interface to ensure models are correctly registered and manageable.
 
 ### 4\. **User Authentication**
 
-- [ ] Review and test the `login_view`, `logout_view`, and `register` views provided in the distribution code.
+- [x] Review and test the `login_view`, `logout_view`, and `register` views provided in the distribution code.
 
 - [ ]  Modify `layout.html` to customize the user experience based on whether the user is authenticated.
 
