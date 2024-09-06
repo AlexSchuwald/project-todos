@@ -22,7 +22,7 @@
 
 ### 3\. **Admin Setup**
 
-- [ ] Register models (`AuctionListing`, `Bid`, `Comment`) in `admin.py`.
+- [x] Register models (`AuctionListing`, `Bid`, `Comment`) in `admin.py`.
 
 - [ ]  Create a superuser using `createsuperuser`.
 
