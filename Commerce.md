@@ -24,7 +24,7 @@
 
 - [x] Register models (`AuctionListing`, `Bid`, `Comment`) in `admin.py`.
 
-- [ ]  Create a superuser using `createsuperuser`.
+- [x]  Create a superuser using `createsuperuser`.
 
 - [ ]  Test the Django admin interface to ensure models are correctly registered and manageable.
 
