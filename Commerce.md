@@ -12,7 +12,7 @@
 
 - [x] Define the `AuctionListing` model.
 
-- [ ]  Define the `Bid` model.
+- [x]  Define the `Bid` model.
 
 - [ ]  Define the `Comment` model.
 
