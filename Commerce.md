@@ -14,7 +14,7 @@
 
 - [x]  Define the `Bid` model.
 
-- [ ]  Define the `Comment` model.
+- [x]  Define the `Comment` model.
 
 - [ ]  Add any additional fields or models (e.g., categories).
 
