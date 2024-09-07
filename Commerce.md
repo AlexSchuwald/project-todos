@@ -32,11 +32,11 @@
 
 - [x] Review and test the `login_view`, `logout_view`, and `register` views provided in the distribution code.
 
-- [ ]  Modify `layout.html` to customize the user experience based on whether the user is authenticated.
+- [x]  Modify `layout.html` to customize the user experience based on whether the user is authenticated.
 
 ### 5\. **View Implementations**
 
-- [ ] Implement the `index` view to display all active auction listings.
+- [x] Implement the `index` view to display all active auction listings.
 
 - [ ]  Implement the `listing_detail` view to show details of a specific listing, including bidding and comments.
 
