@@ -155,3 +155,13 @@
 - [ ]  Monitor the site for any issues or user feedback.
 
 - [ ]  Implement any necessary updates or improvements based on feedback.
+
+### 
+
+### Additional Customization:
+
+You can further customize the user experience by displaying different content for logged-in users. For instance:
+
+- [ ] **Show bidding options only to logged-in users on listing pages.**
+
+- [ ] **Only allow logged-in users to leave comments on listings.**
