@@ -38,7 +38,7 @@
 
 - [x] Implement the `index` view to display all active auction listings.
 
-- [ ]  Implement the `listing_detail` view to show details of a specific listing, including bidding and comments.
+- [x]  Implement the `listing_detail` view to show details of a specific listing, including bidding and comments.
 
 - [ ]  Implement the `create_listing` view to allow users to create a new auction listing.
 
