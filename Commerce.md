@@ -40,7 +40,7 @@
 
 - [x]  Implement the `listing_detail` view to show details of a specific listing, including bidding and comments.
 
-- [ ]  Implement the `create_listing` view to allow users to create a new auction listing.
+- [x]  Implement the `create_listing` view to allow users to create a new auction listing.
 
 - [ ]  Implement the `watchlist` view to show all items added to the user's watchlist.
 
