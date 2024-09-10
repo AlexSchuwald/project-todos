@@ -44,9 +44,9 @@
 
 - [x]  Implement the `watchlist` view to show all items added to the user's watchlist.
 
-- [ ]  Implement the `categories` view to display all categories and their respective listings.
+- [x]  Implement the `categories` view to display all categories and their respective listings.
 
-- [ ]  Ensure proper use of the `@login_required` decorator for protected views.
+- [x]  Ensure proper use of the `@login_required` decorator for protected views.
 
 ### 6\. **URL Configuration**
 
