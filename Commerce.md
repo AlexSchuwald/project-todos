@@ -42,7 +42,7 @@
 
 - [x]  Implement the `create_listing` view to allow users to create a new auction listing.
 
-- [ ]  Implement the `watchlist` view to show all items added to the user's watchlist.
+- [x]  Implement the `watchlist` view to show all items added to the user's watchlist.
 
 - [ ]  Implement the `categories` view to display all categories and their respective listings.
 
