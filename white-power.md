@@ -110,8 +110,6 @@ Who is/are actually correct?
 
 Now you want to check weather this equation is correct or not so you collected the data from the gym, the data is given in table below.  
 
-The extracted text from the image is:
-
 | Time (months) | Weight (Kgs) |
 |---------------|--------------|
 | 0             | 98           |
