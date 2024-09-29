@@ -82,7 +82,7 @@ Q=cd1−β42gΔhQ=1−β4​cd​​2gΔh​
 
 - cd– discharge coefficient
 
-β– dDβ– Dd​
+β– d/D
 
 A1– Pipe section
 
