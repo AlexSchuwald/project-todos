@@ -92,9 +92,9 @@ How much will he save per year if he chooses the best option to buy the mobile c
 
 - Q– flow rate
 
-Ramesh plotted the graph between Q on the y-axis and sqrtΔh​ on the x-axis and claimed that  \\frac{c_d}{\\sqrt{1-\\beta^4}}\\sqrt{2g\\Delta h}\]​ is the slope of the obtained straight line.
+Ramesh plotted the graph between Q on the y-axis and √Δh on the x-axis and claimed that \[\\frac{c\_{d}}{\\sqrt{1-\\beta^{4}}}\\sqrt{2g}\] is the slope of the obtained straight line.
 
-Suresh plotted the graph between ΔhΔh​ on the y-axis and Q on the x-axis and claimed that 1−β4cd2gcd​2g​1−β4​​ is the slope of the straight line.
+Suresh plotted the graph between √Δh on the y-axis and Q on the x-axis and claimed that \[\\frac{\\sqrt{1-\\beta^{4}}}{c\_{d}\\sqrt{2g}}\] is the slope of the straight line.
 
 Who is/are actually correct?
 
