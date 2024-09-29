@@ -74,7 +74,7 @@ The extracted text from the image is:
 | Proton           | 200                      | 0\.5               |
 How much will he save per year if he chooses the best option to buy the mobile compared to the collaborated offer given by the company?  
 
-**8\. (1 point)** The total expenses of mess consists of fixed cost and the variable cost, Variable cost is proportional to the number of inmates of the mess, The total expenses are 16000 rupees when 12 members in the mess,and 20000 rupees when 20 members in the mess, find the Fixed cost of the mess.  
+**8\. (1 point)** The total expenses of mess consists of fixed cost and the variable cost, Variable cost is proportional to the number of inmates of the mess, The total expenses are 16000 rupees when 12 members in the mess, and 20000 rupees when 20 members in the mess, find the Fixed cost of the mess.  
 
 **9\. (1 point)** The equation used to measure the CdCd​ (discharge coefficient) of the venturimeter value in the lab is:
 
