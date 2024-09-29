@@ -1,6 +1,6 @@
 # white-power
 
-Note: This assignment will be evaluated after the deadline passes. You will get your score 48 h\
+\
 For NAT type question, enter only one right answer, even if you get multiple answers for that particular question.\
 \
 Notations:\
