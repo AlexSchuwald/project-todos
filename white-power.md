@@ -82,9 +82,9 @@ How much will he save per year if he chooses the best option to buy the mobile c
 
 - cd– discharge coefficient
 
-β– d/D
+- β– d/D
 
-A1– Pipe section
+- A1– Pipe section
 
 A2– Restriction area
 
