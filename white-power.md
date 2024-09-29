@@ -28,7 +28,7 @@
 
 - L3:3x−3y+6=0
 
-**4\. (1 point)** A line ll is such that its segment between the lines x−y+2=0 and x+y−1=0 is internally bisected at the point (1,1.5). What is the equation of the line ll?  
+**4\. (1 point)** A line ll is such that its segment between the lines x−y+2=0 and x+y−1=0 is internally bisected at the point (1,1.5). What is the equation of the line l?  
 
 - x+2y=1
 
