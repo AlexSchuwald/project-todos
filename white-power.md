@@ -78,7 +78,7 @@ How much will he save per year if he chooses the best option to buy the mobile c
 
 **9\. (1 point)** The equation used to measure the Cd (discharge coefficient) of the venturimeter value in the lab is:
 
-Q=cd1−β42gΔhQ=1−β4​cd​​2gΔh​
+\[Q = \\frac{c_d}{\\sqrt{1-\\beta^4}}\\sqrt{2g\\Delta h}\]
 
 - cd– discharge coefficient
 
