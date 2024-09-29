@@ -88,9 +88,9 @@ How much will he save per year if he chooses the best option to buy the mobile c
 
 - A2– Restriction area
 
-/Δh– head lossesΔh– head losses
+- Δh– head losses
 
-Q– flow rate
+- Q– flow rate
 
 Ramesh plotted the graph between Q on the y-axis and ΔhΔh​ on the x-axis and claimed that cd1−β42g1−β4​cd​​2g​ is the slope of the obtained straight line.
 
