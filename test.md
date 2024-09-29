@@ -16,10 +16,6 @@ Figure 2.1.G shows the pie chart representation of the weightage distribution of
 
 If the exam is for a total of 500 marks, then what is the aggregate distribution of marks in Physics, Maths and Biology?
 
-**_1 point_**
-
-**_1 point_**
-
 Choose the correct statement(s):
 
 The pie chart is misleading because it does not obey the area principle.
@@ -38,10 +34,6 @@ If each academy has trained at least one player, then based on the given informa
 
 What is the combined relative frequency of the academy A,B_A_,_B_ and D_D_? (Enter the answer correct to 3 decimal places)
 
-**_1 point_**
-
-**_1 point_**
-
 Median of the given data is:
 
 Academy C
@@ -53,8 +45,6 @@ Academy D
 Median is not defined for the given data
 
 Insufficient data
-
-**_1 point_**
 
 Mode of the given data is:
 
@@ -68,8 +58,6 @@ Mode is not defined for the given data
 
 Insufficient data
 
-**_1 point_**
-
 Which of the following graphical representations is appropriate for the number of players in each academy for the given data in Table 2.1.G?
 
 Bar chart
@@ -79,8 +67,6 @@ Pie chart
 Pareto chart
 
 Both bar chart and pareto chart
-
-**_1 point_**
 
 The data of number of students sharing the same rank is collected. Which of the following is/are suitable to represent the collected data?
 
