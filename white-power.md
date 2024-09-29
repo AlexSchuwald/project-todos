@@ -86,9 +86,9 @@ How much will he save per year if he chooses the best option to buy the mobile c
 
 - A1– Pipe section
 
-A2– Restriction area
+- A2– Restriction area
 
-Δh– head lossesΔh– head losses
+/Δh– head lossesΔh– head losses
 
 Q– flow rate
 
