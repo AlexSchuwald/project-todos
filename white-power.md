@@ -110,6 +110,17 @@ Who is/are actually correct?
 
 Now you want to check weather this equation is correct or not so you collected the data from the gym, the data is given in table below.  
 
+The extracted text from the image is:
+
+| Time (months) | Weight (Kgs) |
+|---------------|--------------|
+| 0             | 98           |
+| 1             | 90           |
+| 2             | 82           |
+| 3             | 74           |
+| 4             | 66           |
+| 5             | 57           |
+| 6             | 49           |
 You were impressed by the performance of the fitness trainer, so you want to get trained under him, you assumed that the rate of weight loss (weight loss per month) will be same as the case of the best client mentioned in the question. Considering your assumption is true, how many days are required for you to loss weight from 100 kg to 72 kg.  
 
 Note: 1 month has 30 days
