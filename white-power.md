@@ -80,7 +80,7 @@ How much will he save per year if he chooses the best option to buy the mobile c
 
 Q=cd1−β42gΔhQ=1−β4​cd​​2gΔh​
 
-cd– discharge coefficient
+- cd– discharge coefficient
 
 β– dDβ– Dd​
 
