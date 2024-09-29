@@ -16,7 +16,7 @@
 
   - The set of natural numbers includes 0.
 
-**1\. (1 point)** A bird is flying along the straight line 2y−6x=34. In the same plane, an aeroplane starts to fly in a straight line and passes through the point (4,12). Consider the point where aeroplane starts to fly as origin. If the bird and plane collides then enter the answer as 1 and if not then 0. Note: Bird and aeroplane can be considered to be of negligible size.  
+**1\. (1 point)** A bird is flying along the straight line 2y−6x=34. In the same plane, an aeroplane starts to fly in a straight line and passes through the point (4,12). Consider the point where aeroplane starts to fly as origin. If the bird and plane collides then enter the answer as 1 and if not then 0. Note: Bird and aeroplane can be considered to be of negligible size.
 
 **2\. (1 point)** A rock is thrown in a pond, and creates circular ripples whose radius increases at a rate of 0.2 meter per second. What will be the value of AππA​, where AA is the area (in square meter) of the circle after 5 seconds? Hint: The area of a circle = πr2πr2, where rr is the radius of the circle.  
 
