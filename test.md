@@ -76,8 +76,6 @@ The data of number of students sharing the same rank is collected. Which of the 
 
 ![](https://backend.seek.onlinedegree.iitm.ac.in/22t3_ma1002/assets/img/statsc.jpg)
 
-**_1 point_**
-
 Choose the correct statement about categorical data:
 
 Categorical data have measurement units.
@@ -92,7 +90,5 @@ The distribution of grades in a Statistics class consisting of 80 students is sh
 ![](https://backend.seek.onlinedegree.iitm.ac.in/22t3_ma1002/assets/img/statscd3.jpg)
 
 How many students have secured B grade?
-
-**_1 point_**
 
 What is the ratio of the students who secured a C grade to the students who secured an A grade?
