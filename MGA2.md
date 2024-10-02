@@ -129,3 +129,5 @@ Now you want to check weather this equation is correct or not so you collected t
 You were impressed by the performance of the fitness trainer, so you want to get trained under him, you assumed that the rate of weight loss (weight loss per month) will be same as the case of the best client mentioned in the question. Considering your assumption is true, how many days are required for you to loss weight from 100 kg to 72 kg.
 
 Note: 1 month has 30 days
+
+## 105
