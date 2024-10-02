@@ -4,7 +4,7 @@
 
 ## 0
 
-**_2\._** A rock is thrown in a pond, and creates circular ripples whose radius increases at a rate of 0.2 meter per second. What will be the value of Aπ​, where A is the area (in square meter) of the circle after 5 seconds? Hint: The area of a circle πr2, where r is the radius of the circle.  
+**_2\._** A rock is thrown in a pond, and creates circular ripples whose radius increases at a rate of 0.2 meter per second. What will be the value of Aπ​, where A is the area (in square meter) of the circle after 5 seconds? Hint: The area of a circle πr2, where r is the radius of the circle.
 
 ## 1
 
@@ -18,7 +18,7 @@
 
 ## 17\.25
 
-**_4\._** A line l is such that its segment between the lines x−y+2=0 and x+y−1=0 is internally bisected at the point (1,1.5). What is the equation of the line l?  
+**_4\._** A line l is such that its segment between the lines x−y+2=0 and x+y−1=0 is internally bisected at the point (1,1.5). What is the equation of the line l?
 
 - [ ]  x+2y=1
 
@@ -32,7 +32,7 @@
 
 - [ ]  (x1+x2+x3,y1+y2+y3)
 
-- [ ] (x1−x2+x3,y1−y2+y3)
+- [x] (x1−x2+x3,y1−y2+y3)
 
 - [ ] (x1+x2−x3,y1+y2−y3)
 
@@ -66,9 +66,9 @@ The extracted text from the image is:
 
 | Proton           | 200                      | 0\\.5              |
 
-How much will he save per year if he chooses the best option to buy the mobile compared to the collaborated offer given by the company?  
+How much will he save per year if he chooses the best option to buy the mobile compared to the collaborated offer given by the company?
 
-**\*_8\\. (1 point)_\*** The total expenses of mess consists of fixed cost and the variable cost, Variable cost is proportional to the number of inmates of the mess, The total expenses are 16000 rupees when 12 members in the mess, and 20000 rupees when 20 members in the mess, find the Fixed cost of the mess.  
+**\*_8\\. (1 point)_\*** The total expenses of mess consists of fixed cost and the variable cost, Variable cost is proportional to the number of inmates of the mess, The total expenses are 16000 rupees when 12 members in the mess, and 20000 rupees when 20 members in the mess, find the Fixed cost of the mess.
 
 **\*_9\\. (1 point)_\*** The equation used to measure the Cd (discharge coefficient) of the venturi meter value in the lab is:
 
@@ -98,11 +98,11 @@ Who is/are actually correct?
 
 \- Both Ramesh and Suresh
 
-\- None of them are correct  
+\- None of them are correct
 
-**\*_10\\. (1 point)_\*** A fitness trainer is analyzing the weight loss progress of his best client over a period of 6 months, to use it as for marketing. He recorded the weight of the client at the beginning and end of each month. Using straight line fitting, he came up with an equation W=−8t+98W=−8t+98, where W = Weight in Kg, t= time in months.  
+**\*_10\\. (1 point)_\*** A fitness trainer is analyzing the weight loss progress of his best client over a period of 6 months, to use it as for marketing. He recorded the weight of the client at the beginning and end of each month. Using straight line fitting, he came up with an equation W=−8t+98W=−8t+98, where W = Weight in Kg, t= time in months.
 
-Now you want to check weather this equation is correct or not so you collected the data from the gym, the data is given in table below.  
+Now you want to check weather this equation is correct or not so you collected the data from the gym, the data is given in table below.
 
 | Time (months) | Weight (Kgs) |
 
@@ -122,6 +122,6 @@ Now you want to check weather this equation is correct or not so you collected t
 
 | 6             | 49           |
 
-You were impressed by the performance of the fitness trainer, so you want to get trained under him, you assumed that the rate of weight loss (weight loss per month) will be same as the case of the best client mentioned in the question. Considering your assumption is true, how many days are required for you to loss weight from 100 kg to 72 kg.  
+You were impressed by the performance of the fitness trainer, so you want to get trained under him, you assumed that the rate of weight loss (weight loss per month) will be same as the case of the best client mentioned in the question. Considering your assumption is true, how many days are required for you to loss weight from 100 kg to 72 kg.
 
 Note: 1 month has 30 days
