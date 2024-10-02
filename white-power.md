@@ -6,19 +6,19 @@
 
 - Notations:
 
-  - RR = Set of real numbers
+  - R = Set of real numbers
 
-  - QQ = Set of rational numbers
+  - Q = Set of rational numbers
 
-  - ZZ = Set of integers
+  - Z = Set of integers
 
-  - NN = Set of natural numbers
+  - N = Set of natural numbers
 
   - The set of natural numbers includes 0.
 
 **1\. (1 point)** A bird is flying along the straight line 2y−6x=34. In the same plane, an aeroplane starts to fly in a straight line and passes through the point (4,12). Consider the point where aeroplane starts to fly as origin. If the bird and plane collides then enter the answer as 1 and if not then 0. Note: Bird and aero plane can be considered to be of negligible size.
 
-**2\. (1 point)** A rock is thrown in a pond, and creates circular ripples whose radius increases at a rate of 0.2 meter per second. What will be the value of AππA​, where AA is the area (in square meter) of the circle after 5 seconds? Hint: The area of a circle πr2, where r is the radius of the circle.  
+**2\. (1 point)** A rock is thrown in a pond, and creates circular ripples whose radius increases at a rate of 0.2 meter per second. What will be the value of AππA​, where AA is the area (in square meter) of the circle after 5 seconds? Hint: The area of a circle πr2, where r is the radius of the circle.
 
 **3\. (1 point)** Find out the perimeter of the triangle formed by the intersections of following 3 lines:
 
@@ -28,7 +28,7 @@
 
 - L3:3x−3y+6=0
 
-**4\. (1 point)** A line ll is such that its segment between the lines x−y+2=0 and x+y−1=0 is internally bisected at the point (1,1.5). What is the equation of the line l?  
+**4\. (1 point)** A line l is such that its segment between the lines x−y+2=0 and x+y−1=0 is internally bisected at the point (1,1.5). What is the equation of the line l?
 
 - x+2y=1
 
@@ -72,9 +72,9 @@ The extracted text from the image is:
 |------------------|--------------------------|-------------------|
 | Astron           | 100                      | 2                 |
 | Proton           | 200                      | 0\.5               |
-How much will he save per year if he chooses the best option to buy the mobile compared to the collaborated offer given by the company?  
+How much will he save per year if he chooses the best option to buy the mobile compared to the collaborated offer given by the company?
 
-**8\. (1 point)** The total expenses of mess consists of fixed cost and the variable cost, Variable cost is proportional to the number of inmates of the mess, The total expenses are 16000 rupees when 12 members in the mess, and 20000 rupees when 20 members in the mess, find the Fixed cost of the mess.  
+**8\. (1 point)** The total expenses of mess consists of fixed cost and the variable cost, Variable cost is proportional to the number of inmates of the mess, The total expenses are 16000 rupees when 12 members in the mess, and 20000 rupees when 20 members in the mess, find the Fixed cost of the mess.
 
 **9\. (1 point)** The equation used to measure the Cd (discharge coefficient) of the venturimeter value in the lab is:
 
@@ -104,11 +104,11 @@ Who is/are actually correct?
 
 - Both Ramesh and Suresh
 
-- None of them are correct  
+- None of them are correct
 
-**10\. (1 point)** A fitness trainer is analyzing the weight loss progress of his best client over a period of 6 months, to use it as for marketing. He recorded the weight of the client at the beginning and end of each month. Using straight line fitting, he came up with an equation W=−8t+98W=−8t+98, where W = Weight in Kg, t= time in months.  
+**10\. (1 point)** A fitness trainer is analyzing the weight loss progress of his best client over a period of 6 months, to use it as for marketing. He recorded the weight of the client at the beginning and end of each month. Using straight line fitting, he came up with an equation W=−8t+98W=−8t+98, where W = Weight in Kg, t= time in months.
 
-Now you want to check weather this equation is correct or not so you collected the data from the gym, the data is given in table below.  
+Now you want to check weather this equation is correct or not so you collected the data from the gym, the data is given in table below.
 
 | Time (months) | Weight (Kgs) |
 |---------------|--------------|
@@ -119,6 +119,6 @@ Now you want to check weather this equation is correct or not so you collected t
 | 4             | 66           |
 | 5             | 57           |
 | 6             | 49           |
-You were impressed by the performance of the fitness trainer, so you want to get trained under him, you assumed that the rate of weight loss (weight loss per month) will be same as the case of the best client mentioned in the question. Considering your assumption is true, how many days are required for you to loss weight from 100 kg to 72 kg.  
+You were impressed by the performance of the fitness trainer, so you want to get trained under him, you assumed that the rate of weight loss (weight loss per month) will be same as the case of the best client mentioned in the question. Considering your assumption is true, how many days are required for you to loss weight from 100 kg to 72 kg.
 
 Note: 1 month has 30 days
