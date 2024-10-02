@@ -46,7 +46,7 @@
 
 - [ ] 2x−6y−9=0
 
-- [ ] \- 2x−6y+7=0
+- [ ] 2x−6y+7=0
 
 **\*_7\\. (1 point)_\*** A mobile company wants to launch its new model in collaboration with a network provider named Astron to attract more customers. The following are two options the mobile company gives to buy the mobile.
 
