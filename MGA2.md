@@ -38,7 +38,7 @@
 
 - [ ] (x1−x2−x3,y1−y2−y3)
 
-**\*_6\\. (1 point)_\*** A line perpendicular to the line segment joining the points A(1,0) and B(2,3), divides it at CC in the ratio of 1:3. Then the equation of the line is
+**\*_6\\. (1 point)_\*** A line perpendicular to the line segment joining the points A(1,0) and B(2,3), divides it at C in the ratio of 1:3. Then the equation of the line is
 
 - [ ] 2x+6y−9=0
 
