@@ -30,23 +30,23 @@
 
 **\*_5\\. (1 point)_\*** Let ABCD be a parallelogram with vertices A(x1,y1), B(x2,y2), and C(x3,y3). Which of the following always denotes the coordinate of the fourth vertex D?
 
-\- (x1+x2+x3,y1+y2+y3)
+- [ ]  (x1+x2+x3,y1+y2+y3)
 
-\- (x1−x2+x3,y1−y2+y3)
+- [ ] (x1−x2+x3,y1−y2+y3)
 
-\- (x1+x2−x3,y1+y2−y3)
+- [ ] (x1+x2−x3,y1+y2−y3)
 
-\- (x1−x2−x3,y1−y2−y3)
+- [ ] (x1−x2−x3,y1−y2−y3)
 
 **\*_6\\. (1 point)_\*** A line perpendicular to the line segment joining the points A(1,0) and B(2,3), divides it at CC in the ratio of 1:3. Then the equation of the line is
 
-\- 2x+6y−9=0
+- [ ] 2x+6y−9=0
 
-\- 2x+6y−7=0
+- [ ] 2x+6y−7=0
 
-\- 2x−6y−9=0
+- [ ] 2x−6y−9=0
 
-\- 2x−6y+7=0
+- [ ] \- 2x−6y+7=0
 
 **\*_7\\. (1 point)_\*** A mobile company wants to launch its new model in collaboration with a network provider named Astron to attract more customers. The following are two options the mobile company gives to buy the mobile.
 
