@@ -96,15 +96,15 @@ Suresh plotted the graph between √Δh on the y-axis and Q on the x-axis and cl
 
 Who is/are actually correct?
 
-\- Only Ramesh
+- [ ] \- Only Ramesh
 
-\- Only Suresh
+- [ ] \- Only Suresh
 
-\- Both Ramesh and Suresh
+- [x] \- Both Ramesh and Suresh
 
-\- None of them are correct
+- [ ] \- None of them are correct
 
-**\*_10\\. (1 point)_\*** A fitness trainer is analyzing the weight loss progress of his best client over a period of 6 months, to use it as for marketing. He recorded the weight of the client at the beginning and end of each month. Using straight line fitting, he came up with an equation W=−8t+98W=−8t+98, where W = Weight in Kg, t= time in months.
+**10\.** A fitness trainer is analyzing the weight loss progress of his best client over a period of 6 months, to use it as for marketing. He recorded the weight of the client at the beginning and end of each month. Using straight line fitting, he came up with an equation W=−8t+98W=−8t+98, where W = Weight in Kg, t= time in months.
 
 Now you want to check weather this equation is correct or not so you collected the data from the gym, the data is given in table below.
 
