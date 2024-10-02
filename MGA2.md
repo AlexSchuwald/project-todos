@@ -4,11 +4,9 @@
 
 **_2\._** A rock is thrown in a pond, and creates circular ripples whose radius increases at a rate of 0.2 meter per second. What will be the value of Aπ​, where A is the area (in square meter) of the circle after 5 seconds? Hint: The area of a circle πr2, where r is the radius of the circle.  
 
-**_3\._** Find out the perimeter of the triangle formed by the intersections of following 3 lines:
+**_3\\. (1 point)_\*** Find out the perimeter of the triangle formed by the intersections of following 3 lines:
 
-- [ ] L1:2x+3y−6=0
-
-- [ ] 
+\- L1:2x+3y−6=0
 
 \- L2:3x+2y+6=0
 
