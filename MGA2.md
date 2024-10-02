@@ -68,7 +68,7 @@ The extracted text from the image is:
 
 How much will he save per year if he chooses the best option to buy the mobile compared to the collaborated offer given by the company?
 
-**\*_8\\. (1 point)_\*** The total expenses of mess consists of fixed cost and the variable cost, Variable cost is proportional to the number of inmates of the mess, The total expenses are 16000 rupees when 12 members in the mess, and 20000 rupees when 20 members in the mess, find the Fixed cost of the mess.
+**_8\._** The total expenses of mess consists of fixed cost and the variable cost, Variable cost is proportional to the number of inmates of the mess, The total expenses are 16000 rupees when 12 members in the mess, and 20000 rupees when 20 members in the mess, find the Fixed cost of the mess.
 
 **\*_9\\. (1 point)_\*** The equation used to measure the Cd (discharge coefficient) of the venturi meter value in the lab is:
 
