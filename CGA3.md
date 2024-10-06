@@ -104,7 +104,7 @@ At the end of the execution, E will be True if
 
 `    return averageAmount`
 
-## D
+## 
 
 - [ ] if minAmount >= averageAmount:
 
@@ -137,8 +137,6 @@ At the end of the execution, E will be True if
   else:
 
       return False
-
-- [ ] 
 
 5\. The following pseudocode is executed using the "Scores" dataset. What will A represent at the end of the execution?
 
