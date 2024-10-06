@@ -108,23 +108,23 @@ At the end of the execution, E will be True if
 
 5\. The following pseudocode is executed using the "Scores" dataset. What will A represent at the end of the execution?
 
-A = 0
+`A = 0`
 
-while Table_1\.has_more_rows():
+`while Table1.hasmore_rows():`
 
-    X = Table_1\.read_top_row()
+`    X = Table1.readtop_row()`
 
-    B = True
+`    B = True`
 
-    if X.Physics >= 60 and X.Chemistry >= 60 and X.Mathematics >= 60:
+`    if X.Physics >= 60 and X.Chemistry >= 60 and X.Mathematics >= 60:`
 
-        B = False
+`        B = False`
 
-    if B:
+`    if B:`
 
-        A += 1
+`        A += 1`
 
-    Table_2.move(X)
+`    Table_2.move(X)`
 
 - [ ] Number of students scored above 60 in all three subjects
 
