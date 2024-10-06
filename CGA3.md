@@ -190,6 +190,54 @@ Options:
 
 7\. The following pseudocode is executed using the “Scores” dataset.
 
+`Suma = 0`
+
+`SumB = 0`
+
+`CountA = 0`
+
+`CountB = 0`
+
+`A = 0`
+
+`J = 0`
+
+`K = 0`
+
+`while Pile1.hasmore_cards():`
+
+`    X = Pile1.readtop_card()`
+
+`    if X.CityTown == "Vellore":`
+
+`        Suma += X.Total`
+
+`        CountA += 1`
+
+`    if X.CityTown == "Chennai":`
+
+`        SumB += X.Total`
+
+`        CountB += 1`
+
+`    Pile_2.move(X)`
+
+`J = Suma / CountA`
+
+`K = SumB / CountB`
+
+`while Pile2.hasmore_cards():`
+
+`    X = Pile2.readtop_card()`
+
+`    if X.CityTown == "Madurai":`
+
+`        if X.Total > J and X.Total < K:`
+
+`            A += 1`
+
+`    Pile_1.move(X)`
+
 At the end of the execution, A represents the number of students from Madurai having total marks.............
 
 - [ ] greater than the average marks of students
