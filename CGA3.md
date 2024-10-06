@@ -308,13 +308,14 @@ At the end of the execution, A represents the number of students from Madurai 
 
 - [ ] Number of students with highest marks only in Mathematics out of their three subjects' marks
 
-- [ ] Number of students with highest marks only in Mathematics and lowest marks only in Physics
+- [x] Number of students with highest marks only in Mathematics and lowest marks only in Physics
 
 - [ ] Number of students with highest marks only in Chemistry out of their three subjects' marks
 
 - [ ] Number of students with lowest marks only in Physics out of their three subjects' marks
 
 10. The following pseudocode is executed using the “Words” dataset. What will A represent at the end of the execution?
+11. 
 
 - [ ] Number of words that end with a comma.
 
