@@ -128,7 +128,7 @@ At the end of the execution, E will be True if
 
 - [ ] Number of students scored above 60 in all three subjects
 
-- [ ] Number of students scored below 60 in at least any one subject
+- [x] Number of students scored below 60 in at least any one subject
 
 - [ ] A will always be 0
 
