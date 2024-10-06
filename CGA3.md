@@ -138,55 +138,55 @@ At the end of the execution, E will be True if
 
    Choose the correct code fragment to complete the pseudocode.
 
-   Pseudocode:
+   `Pseudocode:`
 
-   python
+   `python`
 
-   Copy code
+   `Copy code`
 
-   Count = 0
+   `Count = 0`
 
-   while Table1.hasmore_rows():
+   `while Table1.hasmore_rows():`
 
-       X = Table1.readtop_row()
+   `    X = Table1.readtop_row()`
 
-       A = False
+   `    A = False`
 
-       B = False
+   `    B = False`
 
-       C = False
+   `    C = False`
 
-       D = False
+   `    D = False`
 
-       if X.Total > AvgT:
+   `    if X.Total > AvgT:`
 
-           A = True
+   `        A = True`
 
-       if X.Mathematics < AvgM and X.Physics < AvgP:
+   `    if X.Mathematics < AvgM and X.Physics < AvgP:`
 
-           B = True
+   `        B = True`
 
-       if X.Physics < AvgP and X.Chemistry < AvgC:
+   `    if X.Physics < AvgP and X.Chemistry < AvgC:`
 
-           C = True
+   `        C = True`
 
-       if X.Chemistry < AvgC and X.Mathematics < AvgM:
+   `    if X.Chemistry < AvgC and X.Mathematics < AvgM:`
 
-           D = True
+   `        D = True`
 
-       # Fill the code here
+   `    # Fill the code here`
 
-       Table_2.move(X)
+   `    Table_2.move(X)`
 
-   Options:
+Options:
 
-   if A and (B or C or D): Count += 1
+- [x] if A and (B or C or D): Count += 1
 
-   if A and ((B and C) and (C and D) and (D and B)): Count += 1
+- [ ] if A and ((B and C) and (C and D) and (D and B)): Count += 1
 
-   if (A or (B and C) or (C and D) or (D and B)): Count += 1
+- [ ] if (A or (B and C) or (C and D) or (D and B)): Count += 1
 
-   if (A or (B or C) or (C or D) or (D or B)): Count += 1
+- [ ] if (A or (B or C) or (C or D) or (D or B)): Count += 1
 
 7\. The following pseudocode is executed using the “Scores” dataset.
 
