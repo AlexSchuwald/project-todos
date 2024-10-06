@@ -108,6 +108,24 @@ At the end of the execution, E will be True if
 
 5\. The following pseudocode is executed using the "Scores" dataset. What will A represent at the end of the execution?
 
+A = 0
+
+while Table_1\.has_more_rows():
+
+    X = Table_1\.read_top_row()
+
+    B = True
+
+    if X.Physics >= 60 and X.Chemistry >= 60 and X.Mathematics >= 60:
+
+        B = False
+
+    if B:
+
+        A += 1
+
+    Table_2.move(X)
+
 - [ ] Number of students scored above 60 in all three subjects
 
 - [ ] Number of students scored below 60 in at least any one subject
