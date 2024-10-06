@@ -106,6 +106,22 @@ At the end of the execution, E will be True if
 
 ## D
 
+- [ ] if minAmount >= averageAmount:
+
+      return True
+
+  else:
+
+      return False
+
+- [ ] if Y.TotalBillAmount > minAmount:
+
+      return True
+
+  else:
+
+      return False
+
 5\. The following pseudocode is executed using the "Scores" dataset. What will A represent at the end of the execution?
 
 `A = 0`
