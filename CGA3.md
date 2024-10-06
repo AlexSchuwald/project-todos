@@ -288,7 +288,23 @@ At the end of the execution, A represents the number of students from Madurai 
 
 9. The following pseudocode is executed using the “Scores” dataset. What will A represent at the end of the execution?
 
-\`
+` A = 0`
+
+`while Pile1.hasmore_cards():`
+
+`    X = Pile1.readtop_card()`
+
+`    A += isInSeq(X)`
+
+`    Pile_2.move(X)`
+
+`def isInSeq(X):`
+
+`    if X.Mathematics > X.Physics and X.Physics < X.Chemistry:`
+
+`        return 1`
+
+`    return 0`
 
 - [ ] Number of students with highest marks only in Mathematics out of their three subjects' marks
 
