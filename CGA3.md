@@ -130,7 +130,7 @@ At the end of the execution, E will be True if
 
       return False
 
-- [ ] if minAmount > averageAmount:
+- [x] if minAmount > averageAmount:
 
       return True
 
