@@ -315,7 +315,40 @@ At the end of the execution, A represents the number of students from Madurai 
 - [ ] Number of students with lowest marks only in Physics out of their three subjects' marks
 
 10. The following pseudocode is executed using the “Words” dataset. What will A represent at the end of the execution?
-11. 
+
+`  SumT = 0`
+
+`CountT = 0`
+
+`B = 0`
+
+`while Table1.hasmore_rows():`
+
+`    X = Table1.readtop_row()`
+
+`    CountT += 1`
+
+`    SumT += X.LetterCount`
+
+`    Table_2.move(X)`
+
+`B = SumT / CountT`
+
+`A = 0`
+
+`while Table2.hasmore_rows():`
+
+`    X = Table2.readtop_row()`
+
+`    if X.word.endswith(","):`
+
+`        if X.LetterCount > B:`
+
+`            A += 1`
+
+`    Table_1.move(X)`
+
+ 
 
 - [ ] Number of words that end with a comma.
 
