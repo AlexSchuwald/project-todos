@@ -354,4 +354,4 @@ At the end of the execution, A represents the number of students from Madurai 
 
 - [ ] Number of words that end with a comma and have a letter count less than or equal to the average letter count of dataset.
 
-- [ ] Number of words that end with a comma and have a letter count greater than the average letter count of dataset.
+- [x] Number of words that end with a comma and have a letter count greater than the average letter count of dataset.
