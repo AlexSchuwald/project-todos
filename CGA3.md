@@ -262,5 +262,3 @@ while (Table 2 has more rows) {
     Move X to Table 1
 }
 ```
-
-Please note that these are just the extracted text from the images. The actual meaning and purpose of these code snippets would depend on the context in which they are used.
