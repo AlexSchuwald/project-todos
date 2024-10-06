@@ -135,7 +135,40 @@ At the end of the execution, E will be True if
 - [ ] Number of students scored exactly 60 in all three subjects
 
 6. The following pseudocode is executed using the “Scores” dataset. At the end of the execution, variable Count captures the number of students whose total marks are more than the average (of total marks) of entire dataset but have scored below the subject average in any two subjects. Assume that the variable AvgT holds the value of the average total marks. Similarly, the variables AvgP, AvgC and AvgM hold the value of the average marks of Physics, Chemistry and Mathematics respectively. Choose the correct code fragment to complete the pseudocode. It is a Multiple Select Question(MSQ).
-7. 
+
+`Count = 0`
+
+`while Table1.hasmore_rows():`
+
+`    X = Table1.readtop_row()`
+
+`    A = False`
+
+`    B = False`
+
+`    C = False`
+
+`    D = False`
+
+`    if X.Total > AvgT:`
+
+`        A = True`
+
+`    if X.Mathematics < AvgM and X.Physics < AvgP:`
+
+`        B = True`
+
+`    if X.Physics < AvgP and X.Chemistry < AvgC:`
+
+`        C = True`
+
+`    if X.Chemistry < AvgC and X.Mathematics < AvgM:`
+
+`        D = True`
+
+`    # Fill the code here`
+
+`    Table_2.move(X)`
 
 7\. The following pseudocode is executed using the “Scores” dataset.
 
