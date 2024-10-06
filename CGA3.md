@@ -244,7 +244,7 @@ At the end of the execution, A represents the number of students from Madurai 
 
 - [ ] greater than the average marks of students from Vellore and Chennai
 
-- [ ] greater than the average marks of students from Vellore but less than that of Chennai
+- [x] greater than the average marks of students from Vellore but less than that of Chennai
 
 - [ ] greater than the average marks of students from Chennai but less than that of Vellore
 
