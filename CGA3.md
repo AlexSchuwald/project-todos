@@ -44,6 +44,8 @@
 
 3. The following pseudocode is executed using the “Scores” dataset.
 
+4. 
+
 At the end of the execution, E will be True if
 
 - [ ] All female students have scores greater than or equal to 60 in either Physics, Chemistry or Maths
