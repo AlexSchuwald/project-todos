@@ -250,6 +250,32 @@ At the end of the execution, A represents the number of students from Madurai 
 
 8. The following pseudocode is executed using the "Scores" dataset. At the end of the execution, A captures the number of female students who are below average in at least one subject. Assume that the variables M, P and C hold the average marks of the subjects Mathematics, Physics and Chemistry respectively. The pseudocode may have mistakes. Identify all such mistakes (if any). Assume that all statements not listed in the options below are free of errors. It is a Multiple Select Question (MSQ).
 
+`A = 0`
+
+`while Table1.hasmore_rows():`
+
+`    X = Table1.readtop_row()`
+
+`    B = True`
+
+`    if X.Gender == 'F' and X.Mathematics < M:`
+
+`        B = False`
+
+`    if X.Physics < P:`
+
+`        B = True`
+
+`    if X.Chemistry < C:`
+
+`        B = False`
+
+`    if B:`
+
+`        A += 1`
+
+`    Table_2.move(X)`
+
 - [ ] Line 1: Incorrect initialization of A
 
 - [ ] Line 3: Incorrect initialization of B
