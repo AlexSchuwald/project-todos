@@ -278,15 +278,17 @@ At the end of the execution, A represents the number of students from Madurai 
 
 - [ ] Line 1: Incorrect initialization of A
 
-- [ ] Line 3: Incorrect initialization of B
+- [x] Line 3: Incorrect initialization of B
 
-- [ ] Line 7: Incorrect Update of B
+- [x] Line 7: Incorrect Update of B
 
-- [ ] Line 13: Incorrect Update of B
+- [x] Line 13: Incorrect Update of B
 
 - [ ] No error in the code
 
 9. The following pseudocode is executed using the “Scores” dataset. What will A represent at the end of the execution?
+
+\`
 
 - [ ] Number of students with highest marks only in Mathematics out of their three subjects' marks
 
