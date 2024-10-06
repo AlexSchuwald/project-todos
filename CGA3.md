@@ -52,44 +52,42 @@ At the end of the execution, E will be True if
 
 At the end of the execution, A represents the number of students from Madurai having total marks.............
 
-- greater than the average marks of students
+- [ ] greater than the average marks of students
 
-- greater than the average marks of students from Vellore and Chennai
+- [ ] greater than the average marks of students from Vellore and Chennai
 
-- greater than the average marks of students from Vellore but less than that of Chennai
+- [ ] greater than the average marks of students from Vellore but less than that of Chennai
 
-- greater than the average marks of students from Chennai but less than that of Vellore
+- [ ] greater than the average marks of students from Chennai but less than that of Vellore
 
 8. The following pseudocode is executed using the "Scores" dataset. At the end of the execution, A captures the number of female students who are below average in at least one subject. Assume that the variables M, P and C hold the average marks of the subjects Mathematics, Physics and Chemistry respectively. The pseudocode may have mistakes. Identify all such mistakes (if any). Assume that all statements not listed in the options below are free of errors. It is a Multiple Select Question (MSQ).  
 
-.
+- [ ] Line 1: Incorrect initialization of A  
 
-- Line 1: Incorrect initialization of A  
+- [ ] Line 3: Incorrect initialization of B
 
-- Line 3: Incorrect initialization of B
+- [ ] Line 7: Incorrect Update of B
 
-- Line 7: Incorrect Update of B
+- [ ] Line 13: Incorrect Update of B
 
-- Line 13: Incorrect Update of B
-
-- No error in the code
+- [ ] No error in the code
 
 9. The following pseudocode is executed using the “Scores” dataset. What will A represent at the end of the execution?
 
-- Number of students with highest marks only in Mathematics out of their three subjects' marks
+- [ ] Number of students with highest marks only in Mathematics out of their three subjects' marks
 
-- Number of students with highest marks only in Mathematics and lowest marks only in Physics
+- [ ] Number of students with highest marks only in Mathematics and lowest marks only in Physics
 
-- Number of students with highest marks only in Chemistry out of their three subjects' marks
+- [ ] Number of students with highest marks only in Chemistry out of their three subjects' marks
 
-- Number of students with lowest marks only in Physics out of their three subjects' marks
+- [ ] Number of students with lowest marks only in Physics out of their three subjects' marks
 
 10. The following pseudocode is executed using the “Words” dataset. What will A represent at the end of the execution?
 
-- Number of words that end with a comma.
+- [ ] Number of words that end with a comma.
 
-- Number of words that end with a comma and have a letter count greater than ratio of number of words to sum of letter count.
+- [ ] Number of words that end with a comma and have a letter count greater than ratio of number of words to sum of letter count.
 
-- Number of words that end with a comma and have a letter count less than or equal to the average letter count of dataset.
+- [ ] Number of words that end with a comma and have a letter count less than or equal to the average letter count of dataset.
 
-- Number of words that end with a comma and have a letter count greater than the average letter count of dataset.
+- [ ] Number of words that end with a comma and have a letter count greater than the average letter count of dataset.
