@@ -134,41 +134,59 @@ At the end of the execution, E will be True if
 
 - [ ] Number of students scored exactly 60 in all three subjects
 
-6. The following pseudocode is executed using the “Scores” dataset. At the end of the execution, variable Count captures the number of students whose total marks are more than the average (of total marks) of entire dataset but have scored below the subject average in any two subjects. Assume that the variable AvgT holds the value of the average total marks. Similarly, the variables AvgP, AvgC and AvgM hold the value of the average marks of Physics, Chemistry and Mathematics respectively. Choose the correct code fragment to complete the pseudocode. It is a Multiple Select Question(MSQ).
+6. The following pseudocode is executed using the "Scores" dataset. At the end of the execution, the variable Count captures the number of students whose total marks are more than the average (of total marks) of the entire dataset but have scored below the subject average in any two subjects. Assume that the variable AvgT holds the value of the average total marks. Similarly, the variables AvgP, AvgC, and AvgM hold the values of the average marks of Physics, Chemistry, and Mathematics, respectively.
 
-`Count = 0`
+   Choose the correct code fragment to complete the pseudocode.
 
-`while Table1.hasmore_rows():`
+   Pseudocode:
 
-`    X = Table1.readtop_row()`
+   python
 
-`    A = False`
+   Copy code
 
-`    B = False`
+   Count = 0
 
-`    C = False`
+   while Table1.hasmore_rows():
 
-`    D = False`
+       X = Table1.readtop_row()
 
-`    if X.Total > AvgT:`
+       A = False
 
-`        A = True`
+       B = False
 
-`    if X.Mathematics < AvgM and X.Physics < AvgP:`
+       C = False
 
-`        B = True`
+       D = False
 
-`    if X.Physics < AvgP and X.Chemistry < AvgC:`
+       if X.Total > AvgT:
 
-`        C = True`
+           A = True
 
-`    if X.Chemistry < AvgC and X.Mathematics < AvgM:`
+       if X.Mathematics < AvgM and X.Physics < AvgP:
 
-`        D = True`
+           B = True
 
-`    # Fill the code here`
+       if X.Physics < AvgP and X.Chemistry < AvgC:
 
-`    Table_2.move(X)`
+           C = True
+
+       if X.Chemistry < AvgC and X.Mathematics < AvgM:
+
+           D = True
+
+       # Fill the code here
+
+       Table_2.move(X)
+
+   Options:
+
+   if A and (B or C or D): Count += 1
+
+   if A and ((B and C) and (C and D) and (D and B)): Count += 1
+
+   if (A or (B and C) or (C and D) or (D and B)): Count += 1
+
+   if (A or (B or C) or (C or D) or (D or B)): Count += 1
 
 7\. The following pseudocode is executed using the “Scores” dataset.
 
