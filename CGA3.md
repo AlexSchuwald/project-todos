@@ -70,6 +70,40 @@ At the end of the execution, E will be True if
 
 4. The following pseudocode is executed using the “Shopping Bills” dataset. Procedure checkShoppingBills accepts a card Y and returns True if the minimum total bill amount of shop is greater than the average total bill amount of shop from where the card Y is generated otherwise returns False. Choose the correct code fragments to complete the procedure. It is a Multiple Select Question (MSQ). Note : MAX_VALUE represent the maximum bill amount of shop Y.  
 
+def checkShoppingBills(Y):
+
+    count = 0
+
+    totalAmount = 0
+
+    minAmount = float('inf')  # Set minAmount to a very large value initially
+
+    while Pile_1\.has_more_cards():
+
+        X = Pile_1\.read_top_card()
+
+        if X.ShopName == Y.ShopName:
+
+            count += 1
+
+            totalAmount += X.TotalBillAmount
+
+            minAmount = min(minAmount, X.TotalBillAmount)
+
+        Pile_2.move(X)
+
+    if count > 0:
+
+        averageAmount = totalAmount / count
+
+        # Fill the code here
+
+    else:
+
+        averageAmount = 0
+
+    return averageAmount
+
 4. The following pseudocode is executed using the "Scores" dataset. What will A represent at the end of the execution?
 
 - [ ] Number of students scored above 60 in all three subjects
