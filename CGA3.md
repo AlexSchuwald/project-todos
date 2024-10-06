@@ -24,7 +24,7 @@
 
 `    Table_2.move(X)`
 
-- [ ] Number of words with an even letter count
+- [x] Number of words with an even letter count
 
 - [ ] Number of words with an odd letter count
 
@@ -36,7 +36,7 @@
 
 - [ ] Number of adverbs with an even letter count
 
-- [ ] Number of adverbs with an odd letter count
+- [x] Number of adverbs with an odd letter count
 
 - [ ] Number of words with any letter count
 
@@ -66,7 +66,7 @@ At the end of the execution, E will be True if
 
 - [ ] There is at least one female student with scores less than 60 in Physics, Chemistry or Maths
 
-- [ ] All female students have scores greater than or equal to 60 in Physics, Chemistry and Maths  
+- [x] All female students have scores greater than or equal to 60 in Physics, Chemistry and Maths  
 
 4. The following pseudocode is executed using the “Shopping Bills” dataset. Procedure checkShoppingBills accepts a card Y and returns True if the minimum total bill amount of shop is greater than the average total bill amount of shop from where the card Y is generated otherwise returns False. Choose the correct code fragments to complete the procedure. It is a Multiple Select Question (MSQ). Note : MAX_VALUE represent the maximum bill amount of shop Y.  
 
@@ -103,6 +103,8 @@ At the end of the execution, E will be True if
 `        averageAmount = 0`
 
 `    return averageAmount`
+
+## D
 
 5\. The following pseudocode is executed using the "Scores" dataset. What will A represent at the end of the execution?
 
