@@ -4,6 +4,26 @@
 
 1. The following pseudocode is executed using the “Words” dataset. What will P represent at the end of the execution?
 
+`P = 0`
+
+`Q = 0`
+
+`while Table1.hasmore_rows():`
+
+`    X = Table1.readtop_row()`
+
+`    if X.LetterCount % 2 == 0:`
+
+`        P += 1`
+
+`    else:`
+
+`        if X.PartOfSpeech == "Adverb":`
+
+`            Q += 1`
+
+`    Table_2.move(X)`
+
 - [ ] Number of words with an even letter count
 
 - [ ] Number of words with an odd letter count
