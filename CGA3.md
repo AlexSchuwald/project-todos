@@ -44,7 +44,19 @@
 
 3. The following pseudocode is executed using the “Scores” dataset.
 
-4. 
+`E = True`
+
+`while Table1.hasmore_rows():`
+
+`    X = Table1.readtop_row()`
+
+`    if X.Gender == 'F':`
+
+`        if X.Physics < 60 or X.Chemistry < 60 or X.Maths < 60:`
+
+`            E = False`
+
+`    Table_2.move(X`)
 
 At the end of the execution, E will be True if
 
