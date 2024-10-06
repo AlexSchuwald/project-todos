@@ -92,7 +92,7 @@ At the end of the execution, A represents the number of students from Madurai 
 
 - [ ] Number of words that end with a comma and have a letter count greater than the average letter count of dataset.
 
-Here are the extracted text from the images you provided:
+Here are the code snippets required for each question
 
 **1:**
 
