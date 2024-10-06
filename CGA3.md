@@ -348,8 +348,6 @@ At the end of the execution, A represents the number of students from Madurai 
 
 `    Table_1.move(X)`
 
- 
-
 - [ ] Number of words that end with a comma.
 
 - [ ] Number of words that end with a comma and have a letter count greater than ratio of number of words to sum of letter count.
