@@ -105,7 +105,7 @@ What is the Inter Quartile Range (IQR)? (Correct to 1 decimal point accuracy.)
 | 6    | 1 2 2     |
 | 7    | 2 5 7 7 9 |
 | 8    | 5         |
-44, 46, 54, 58, 61, 62, 62, 72, 75, 77, 7779\
+44, 46, 54, 58, 61, 62, 62, 72, 75, 77, 77, ,79, 85\
 \
 What is the median rating, if 1 points are added to all of his ratings and then converted to 40 points. (Correct up to 2 decimal point accuracy.)
 
