@@ -111,4 +111,4 @@ Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor
 Here 6 | 4 means Rating of 64\
 What is the median rating, if 1 points are added to all of his ratings and then converted to 40 points. (Correct up to 2 decimal point accuracy.)
 
-\-->
+\-->2
