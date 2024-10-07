@@ -4,20 +4,26 @@
 
 The numbers 1, 5, 12, 16 have frequencies x+6, x+2, x−3 and _x_ respectively. If their mean is 5.3, find the value of _x_. (Enter the value as next highest integer)
 
-**_\--> 4_**
+\--> 4
 
 ### \
 2
 
 The mean and sample standard deviation of the dataset consisting of 8 observations is 15 and 11 respectively. Later it is noted that one observation 13 is wrongly noted as 10. What is the mean of the original dataset? (Correct to 2 decimal place accuracy)
 
+\-->
+
 ### 3
 
 The mean and sample standard deviation of the dataset consisting of 8 observations is 15 and 11 respectively. Later it is noted that one observation 13 is wrongly noted as 10. What is the sample variance of the original dataset? (Correct to 2 decimal place accuracy)
 
+\-->
+
 ### 4
 
 Let the data 70, 46, 83, 25, 54, 20, 30, 29, 80 represent the retail prices in rupees of a certain commodity in 9 randomly selected shops in a particular city. What will be the sample variance of the retail prices, if 1 rupees is added to all the retail prices. (Correct to 2 decimal place accuracy)
+
+\-->
 
 ### \
 5
@@ -86,6 +92,8 @@ Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor
 | 8    | 5         |
 Here 6 | 4 means Rating of 64What is the Inter Quartile Range (IQR)? (Correct to 1 decimal point accuracy.)
 
+\-->
+
 ### 10
 
 Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor's performance in different movies.
@@ -100,3 +108,5 @@ Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor
 \
 Here 6 | 4 means Rating of 64\
 What is the median rating, if 1 points are added to all of his ratings and then converted to 40 points. (Correct up to 2 decimal point accuracy.)
+
+\-->
