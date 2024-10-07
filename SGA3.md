@@ -90,9 +90,11 @@ Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor
 | 6    | 1 2 2     |
 | 7    | 2 5 7 7 9 |
 | 8    | 5         |
-Here 6 | 4 means Rating of 64What is the Inter Quartile Range (IQR)? (Correct to 1 decimal point accuracy.)
+Here 6 | 4 means Rating of 64
 
-\-->
+What is the Inter Quartile Range (IQR)? (Correct to 1 decimal point accuracy.)
+
+\-->21
 
 ### 10
 
