@@ -23,7 +23,7 @@ The mean and sample standard deviation of the dataset consisting of 8 observatio
 
 Let the data 70, 46, 83, 25, 54, 20, 30, 29, 80 represent the retail prices in rupees of a certain commodity in 9 randomly selected shops in a particular city. What will be the sample variance of the retail prices, if 1 rupees is added to all the retail prices. (Correct to 2 decimal place accuracy)
 
-\--> 597.
+\--> 596
 
 ### \
 5
