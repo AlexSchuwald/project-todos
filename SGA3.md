@@ -2,27 +2,11 @@
 
 The numbers 1, 5, 12, 16 have frequencies x+6_x_\+6, x+2_x_\+2, x−3_x_−3 and x_x_ respectively. If their mean is 5.3, find the value of x_x_. (Enter the value as next highest integer)
 
-113
-
-76
-
-114
-
-77
-
 The mean and sample standard deviation of the dataset consisting of 8 observations is 15 and 11 respectively. Later it is noted that one observation 13 is wrongly noted as 10. What is the mean of the original dataset? (Correct to 2 decimal place accuracy)
-
-**_1 point_**
 
 The mean and sample standard deviation of the dataset consisting of 8 observations is 15 and 11 respectively. Later it is noted that one observation 13 is wrongly noted as 10. What is the sample variance of the original dataset? (Correct to 2 decimal place accuracy)
 
-**_1 point_**
-
 Let the data 70, 46, 83, 25, 54, 20, 30, 29, 80 represent the retail prices in rupees of a certain commodity in 9 randomly selected shops in a particular city. What will be the sample variance of the retail prices, if 1 rupees is added to all the retail prices. (Correct to 2 decimal place accuracy)
-
-**_1 point_**
-
-**_1 point_**
 
 Suppose, we have 6 observations such that 33, 22, 22, 28, 115, 107.Calculate 10th, 50th and 100th percentiles?
 
