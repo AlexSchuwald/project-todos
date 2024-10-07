@@ -28,8 +28,6 @@ Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114
 
 77
 
-**_1 point_**
-
 Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114. How many outliers are there?
 
 2
@@ -39,8 +37,6 @@ Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114
 1
 
 0
-
-**_1 point_**
 
 In a deck, there are cards numbered 1 to 34 such that the number of cards of a particular number in the deck is same as the number on the card. Which of the following statement(s) is/are true about the mean and mode of the numbers on this deck of card?
 
