@@ -48,7 +48,7 @@ Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114
 
 - [ ] 114
 
-- [ ] 77
+- [x] 77
 
 ### 7
 
