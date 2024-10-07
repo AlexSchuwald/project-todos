@@ -2,7 +2,7 @@
 
 ### 1
 
-The numbers 1, 5, 12, 16 have frequencies x+6, x+2_x_\+2, x−3_x_−3 and _x_ respectively. If their mean is 5.3, find the value of _x_. (Enter the value as next highest integer)
+The numbers 1, 5, 12, 16 have frequencies x+6, x+2, x−3_x_−3 and _x_ respectively. If their mean is 5.3, find the value of _x_. (Enter the value as next highest integer)
 
 ### \
 2
