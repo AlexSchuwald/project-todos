@@ -64,8 +64,6 @@ Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor
 Figure 3.1.G: Performance rating of an actor.\
 Here 6 | 4 means Rating of 64What is the Inter Quartile Range (IQR)? (Correct to 1 decimal point accuracy.)
 
-**_1 point_**
-
 Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor's performance in different movies.
 
 | Stem | Leaf      |
