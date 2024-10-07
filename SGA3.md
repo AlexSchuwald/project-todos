@@ -2,7 +2,13 @@
 
 The numbers 1, 5, 12, 16 have frequencies x+6_x_\+6, x+2_x_\+2, x−3_x_−3 and x_x_ respectively. If their mean is 5.3, find the value of x_x_. (Enter the value as next highest integer)
 
-**_1 point_**
+113
+
+76
+
+114
+
+77
 
 The mean and sample standard deviation of the dataset consisting of 8 observations is 15 and 11 respectively. Later it is noted that one observation 13 is wrongly noted as 10. What is the mean of the original dataset? (Correct to 2 decimal place accuracy)
 
