@@ -40,17 +40,19 @@ Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114
 
 In a deck, there are cards numbered 1 to 34 such that the number of cards of a particular number in the deck is same as the number on the card. Which of the following statement(s) is/are true about the mean and mode of the numbers on this deck of card?
 
-Mean is 34.
+- [ ] Mean is 34.
 
-Mode is 34.
+- [ ] Mode is 34.
 
-Mean is 17.5.
+- [ ] Mean is 17.5.
 
-Mode is 33.
+- [ ] Mode is 33.
 
-Mode is not defined for this data.
+- [ ] Mode is not defined for this data.
 
-Mean is 23.0.
+- [ ] Mean is 23.0.
+
+- [ ] 
 
 Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor's performance in different movies.
 
