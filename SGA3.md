@@ -36,7 +36,7 @@ Suppose, we have 6 observations such that 33, 22, 22, 28, 115, 107.Calculate 10t
 
 - [ ] 22, 31.5, 115
 
-- [ ] 22, 30.5, 115
+- [x] 22, 30.5, 115
 
 ### 6
 
