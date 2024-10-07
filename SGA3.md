@@ -18,8 +18,6 @@ Suppose, we have 6 observations such that 33, 22, 22, 28, 115, 107.Calculate 10t
 
 22, 30.5, 115
 
-**_1 point_**
-
 Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114. Calculate the Inter Quartile Range (IQR) of the data.
 
 113
