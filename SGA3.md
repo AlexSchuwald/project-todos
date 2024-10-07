@@ -1,5 +1,7 @@
 # SGA3
 
+\###
+
 The numbers 1, 5, 12, 16 have frequencies x+6_x_\+6, x+2_x_\+2, x−3_x_−3 and x_x_ respectively. If their mean is 5.3, find the value of x_x_. (Enter the value as next highest integer)
 
 The mean and sample standard deviation of the dataset consisting of 8 observations is 15 and 11 respectively. Later it is noted that one observation 13 is wrongly noted as 10. What is the mean of the original dataset? (Correct to 2 decimal place accuracy)
@@ -10,23 +12,23 @@ Let the data 70, 46, 83, 25, 54, 20, 30, 29, 80 represent the retail prices in r
 
 Suppose, we have 6 observations such that 33, 22, 22, 28, 115, 107.Calculate 10th, 50th and 100th percentiles?
 
-22, 29.5, 115
+- [ ] 22, 29.5, 115
 
-23, 31.5, 115
+- [ ] 23, 31.5, 115
 
-22, 31.5, 115
+- [ ] 22, 31.5, 115
 
-22, 30.5, 115
+- [ ] 22, 30.5, 115
 
 Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114. Calculate the Inter Quartile Range (IQR) of the data.
 
-113
+- [ ] 113
 
-76
+- [ ] 76
 
-114
+- [ ] 114
 
-77
+- [ ] 77
 
 Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114. How many outliers are there?
 
