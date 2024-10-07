@@ -11,7 +11,7 @@ The numbers 1, 5, 12, 16 have frequencies x+6, x+2, x−3 and _x_ respectively. 
 
 The mean and sample standard deviation of the dataset consisting of 8 observations is 15 and 11 respectively. Later it is noted that one observation 13 is wrongly noted as 10. What is the mean of the original dataset? (Correct to 2 decimal place accuracy)
 
-\-->
+\-->15.375
 
 ### 3
 
