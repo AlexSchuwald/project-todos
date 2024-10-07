@@ -42,6 +42,8 @@ Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114
 
 - [ ] 77
 
+### 7
+
 Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114. How many outliers are there?
 
 - [ ] 2
@@ -51,6 +53,8 @@ Suppose, we have 9 observations such that 37, 34, 24, 41, 113, 99, 119, 107, 114
 - [ ] 1
 
 - [ ] 0
+
+### 8
 
 In a deck, there are cards numbered 1 to 34 such that the number of cards of a particular number in the deck is same as the number on the card. Which of the following statement(s) is/are true about the mean and mode of the numbers on this deck of card?
 
@@ -66,6 +70,9 @@ In a deck, there are cards numbered 1 to 34 such that the number of cards of a p
 
 - [ ] Mean is 23.0.
 
+### \
+9
+
 Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor's performance in different movies.
 
 | Stem | Leaf      |
@@ -76,6 +83,8 @@ Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor
 | 7    | 2 5 7 7 9 |
 | 8    | 5         |
 Here 6 | 4 means Rating of 64What is the Inter Quartile Range (IQR)? (Correct to 1 decimal point accuracy.)
+
+### 10
 
 Figure 3.1.G shows a stem and leaf plot of the ratings (out of 100 ) of an actor's performance in different movies.
 
