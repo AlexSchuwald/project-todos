@@ -34,7 +34,7 @@ If the slope of the parabola `y = ax^2 + bx + c` at `(2, 3)` is `5` and the `X`\
 
 - [ ] \[y=-\\frac{5}{2}x^{2}+15x+17\]
 
-- [ ] \[6y=-15x^{2}+90x-102\]
+- [x] \[6y=-15x^{2}+90x-102\]
 
 ### Question 6
 
