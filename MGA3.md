@@ -4,7 +4,7 @@
 
 If the slope of parabola `y = ax^2 + bx + c`, where `a, b, c ∈ R \ { 0 }` at points `(3, 2)` and `(2, 3)` are `32` and `17` respectively, then find the value of `a`.
 
-\-->
+\--> 
 
 ### Question 2
 
