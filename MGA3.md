@@ -16,7 +16,7 @@ A class of `234` students are arranged in rows such that the number of students 
 
 The product of two consecutive odd natural numbers is `255`. Find the largest number among them.
 
-\--> 
+\--> 17
 
 ### Question 4
 
