@@ -26,7 +26,7 @@ The slope of a parabola `y = 3 x^2 - 11 x + 10` at a point `P` is `7`. Find the 
 
 ### Question 5
 
-If the slope of the parabola `y = a x^2 + b x + c` at `(2, 3)` is `5` and the `X`\-coordinate of the vertex of the parabola is `3`, then which of the following is/are true?
+If the slope of the parabola `y = a x^2 + bx + c` at `(2, 3)` is `5` and the `X`\-coordinate of the vertex of the parabola is `3`, then which of the following is/are true?
 
 \-->
 
