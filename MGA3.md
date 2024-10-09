@@ -64,7 +64,7 @@ Consider three Airports A, B, and C. Two friends Ananya and Madhuri want to meet
 
 ### Question 9
 
-A water fountain is designed to shoot a stream of water in the shape of a parabolic arc. The equation of the parabola is given by `h(t)= −0.5t^2 + 4t + 1`, where `h(t)` represents the height of the water stream in meters and _t_  represents the time in seconds since the water was shot. Answer the following questions.\
+A water fountain is designed to shoot a stream of water in the shape of a parabolic arc. The equation of the parabola is given by `h(t)= −0.5t^2 + 4t + 1`, where `h(t)` represents the height of the water stream in meters and `t`  represents the time in seconds since the water was shot. Answer the following questions.\
 Determine the time (in seconds) it takes for the water stream to reach its maximum height.
 
 \-->
