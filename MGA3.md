@@ -28,7 +28,7 @@ The slope of a parabola `y = 3 x^2 - 11 x + 10` at a point `P` is `7`. Find the 
 
 If the slope of the parabola `y = ax^2 + bx + c` at `(2, 3)` is `5` and the `X`\-coordinate of the vertex of the parabola is `3`, then which of the following is/are true?
 
-- [ ] \[y=-\\frac{5}{2}x^{2}+15x-17\]
+- [x] \[y=-\\frac{5}{2}x^{2}+15x-17\]
 
 - [ ] \[y=\\frac{5}{2}x^{2}+15x-17\]
 
