@@ -10,7 +10,7 @@ If the slope of parabola `y = ax^2 + bx + c`, where `a, b, c ∈ R \ { 0 }` at p
 
 A class of `234` students are arranged in rows such that the number of students in a row is one less than thrice the number of rows. Find the number of students in each row.
 
-\-->
+\--> 2
 
 ### Question 3
 
