@@ -1,7 +1,5 @@
 # MGA3
 
-**\*_Extracted Questions and Options_\***
-
 ### Question 1
 
 If the slope of parabola `y = a x^2 + b x + c`, where `a, b, c ∈ R \ { 0 }` at points `(3, 2)` and `(2, 3)` are `3/2` and `17` respectively, then find the value of `a`.
