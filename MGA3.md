@@ -35,3 +35,6 @@ An Architect is designing an arch which is in the shape of figure M1W3-PARABOLA,
 Consider three Airports A, B, and C. Two friends Ananya and Madhuri want to meet at Airport C. Ananya Boarded Flight 1 from Point A to C which is `1200 km`, due to bad weather, Flight 1 slowed down, and the average speed was reduced by `200 km/h` and the time increased by `30 minutes`. Madhuri boarded Flight 2 from Point B to C which is `1800 km`, the average speed of Flight 2 is \`
 
 ### Question 9
+
+A water fountain is designed to shoot a stream of water in the shape of a parabolic arc. The equation of the parabola is given by h(t)=−0.5t2+4t+1_h_(_t_)=−0.5_t_2+4_t_\+1, where h(t)_h_(_t_) represents the height of the water stream in meters and _t_  represents the time in seconds since the water was shot. Answer the following questions.\
+Determine the time (in seconds) it takes for the water stream to reach its maximum height.
