@@ -22,7 +22,7 @@ The product of two consecutive odd natural numbers is `255`. Find the largest nu
 
 The slope of a parabola `y = 3 x^2 - 11 x + 10` at a point `P` is `7`. Find the `y`\-coordinate of the point `P`.
 
-\-->
+\--> 4
 
 ### Question 5
 
