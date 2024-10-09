@@ -33,3 +33,5 @@ An Architect is designing an arch which is in the shape of figure M1W3-PARABOLA,
 ### Question 8
 
 Consider three Airports A, B, and C. Two friends Ananya and Madhuri want to meet at Airport C. Ananya Boarded Flight 1 from Point A to C which is `1200 km`, due to bad weather, Flight 1 slowed down, and the average speed was reduced by `200 km/h` and the time increased by `30 minutes`. Madhuri boarded Flight 2 from Point B to C which is `1800 km`, the average speed of Flight 2 is \`
+
+### Question 9
