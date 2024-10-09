@@ -38,7 +38,7 @@ If the slope of the parabola `y = ax^2 + bx + c` at `(2, 3)` is `5` and the `X`\
 
 ### Question 6
 
-The daily production cost (in lakh ₹) of manufacturing an electric device is `p(x) = 7400 - 60 x + 15x^2`, where `x` is the number of electric devices produced per day and the daily transportation cost (in lakh ₹) of `x` number of electric devices is given by the slope of the function `p(x)` at point `x`. If the production cost on a particular day is `7475` (in lakh ₹), then find the number of electric devices produced on that day.
+The daily production cost (in lakh ₹) of manufacturing an electric device is `p(x) = 7400 - 60x + 15x^2`, where `x` is the number of electric devices produced per day and the daily transportation cost (in lakh ₹) of `x` number of electric devices is given by the slope of the function `p(x)` at point `x`. If the production cost on a particular day is `7475` (in lakh ₹), then find the number of electric devices produced on that day.
 
 \-->
 
