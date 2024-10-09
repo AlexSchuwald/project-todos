@@ -48,7 +48,7 @@ An Architect is designing an arch which is in the shape of figure M1W3-PARABOLA,
 
 _The image M1W3-PARABOLA is a \\graph of a quadratic equation, which is a parabola. The parabola opens downwards, meaning it has a U-shape that points downwards. The vertex of the parabola, which is the highest point on the curve, is located at (0, 20). The y-intercept of the parabola, where it intersects the y-axis, is also at (0, 20). The x-intercepts of the parabola, where it intersects the x-axis, are at approximately (-5, 0) and (5, 0). The graph is symmetric around the y-axis, meaning that if you fold the graph in half along the y-axis, the two sides will match_
 
-- [ ] **Equation 1:** (y = -3x^2 + 20)
+- [x] **Equation 1:** (y = -3x^2 + 20)
 
 - [ ] **Equation 2:** (y = -\\frac{3}{4}x^2 + 20)
 
