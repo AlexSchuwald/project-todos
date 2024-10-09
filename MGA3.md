@@ -60,7 +60,7 @@ _The image M1W3-PARABOLA is a \\graph of a quadratic equation, which is a parabo
 
 Consider three Airports A, B, and C. Two friends Ananya and Madhuri want to meet at Airport C. Ananya Boarded Flight 1 from Point A to C which is `1200 km`, due to bad weather, Flight 1 slowed down, and the average speed was reduced by `200 km/h` and the time increased by `30 minutes`. Madhuri boarded Flight 2 from Point B to C which is `1800 km`, the average speed of Flight 2 is \`
 
-\--> 80
+\--> 800
 
 ### Question 9
 
