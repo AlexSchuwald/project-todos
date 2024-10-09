@@ -42,3 +42,13 @@ Determine the time (in seconds) it takes for the water stream to reach its maxim
 ### Question 10
 
 Which of the following options is/are true?
+
+The extracted text from the image is:
+
+- **Statement 1:** The point at which the slope of the equation (x^2 + 2x - 5) equals 10 is (4,17).
+
+- **Statement 2:** (x = 2) is the axis of symmetry of the quadratic function (f(x) = x^2 + 4x + 5).
+
+- **Statement 3:** If two different quadratic equations have the same discriminant, then the roots of both equations can be the same.
+
+- **Statement 4:** The point at which the slope of the equation (x^2 + 2x - 5) equals 10 is (4,19).
