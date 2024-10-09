@@ -79,4 +79,4 @@ Which of the following options is/are true?
 
 - [ ] **Statement 3:** If two different quadratic equations have the same discriminant, then the roots of both equations can be the same.
 
-- [ ] **Statement 4:** The point at which the slope of the equation (x^2 + 2x - 5) equals 10 is (4,19).
+- [x] **Statement 4:** The point at which the slope of the equation (x^2 + 2x - 5) equals 10 is (4,19).
