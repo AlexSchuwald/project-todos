@@ -28,7 +28,7 @@ The daily production cost (in lakh ₹) of manufacturing an electric device is `
 
 An Architect is designing an arch which is in the shape of figure M1W3-PARABOLA,  The details of the design are as follows:  Height of arch is `20m`, width of arch at height of `8m` is `4m`.  Consider the axis of symmetry as `x = 0`, find the equation of the arch.
 
-The image M1W3-PARABOLAa graph of a quadratic equation, which is a parabola. The parabola opens downwards, meaning it has a U-shape that points downwards. The vertex of the parabola, which is the highest point on the curve, is located at (0, 20). The y-intercept of the parabola, where it intersects the y-axis, is also at (0, 20). The x-intercepts of the parabola, where it intersects the x-axis, are at approximately (-5, 0) and (5, 0). The graph is symmetric around the y-axis, meaning that if you fold the graph in half along the y-axis, the two sides will match
+_The image M1W3-PARABOLA is a \\graph of a quadratic equation, which is a parabola. The parabola opens downwards, meaning it has a U-shape that points downwards. The vertex of the parabola, which is the highest point on the curve, is located at (0, 20). The y-intercept of the parabola, where it intersects the y-axis, is also at (0, 20). The x-intercepts of the parabola, where it intersects the x-axis, are at approximately (-5, 0) and (5, 0). The graph is symmetric around the y-axis, meaning that if you fold the graph in half along the y-axis, the two sides will match_
 
 ### Question 8
 
