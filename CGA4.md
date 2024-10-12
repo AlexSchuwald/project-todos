@@ -117,6 +117,31 @@ What will N represent at the end of execution?
 
 ### 5\. Select the correct code fragment to complete the pseudocode for calculating the ratio of customers who purchased both “Soap” and “Facewash” to the number of customers who purchased “Facewash” in the “Shopping Bills” dataset.
 
+```
+mCount = 0, bCount = 0
+
+while (Pile 1 has more cards) {
+    Read the top card x in Pile 1
+    // Fill the code
+    Move X to Pile 2.
+}
+
+frac = bCount / mCount
+
+Procedure isItem (Y, A)
+    C = False
+    while (Card Y has more items) {
+        Read an item z from ItemList of card Y
+        if(z.Item    == A) {
+            C = True
+        }
+        Remove z from ItemList of Y
+    }
+    return (C)
+
+End isItem   
+```
+
 ### 6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
 
 ### 7\. Identify the lines with potential mistakes in the given pseudocode for counting conjugate pairs in the “Words” dataset. This is a multiple-select question.
