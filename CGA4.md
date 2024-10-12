@@ -2,6 +2,30 @@
 
 1\. What will `A` represent at the end of the execution of the following pseudocode using the “Words” dataset?
 
+`A = 0`
+
+`while Table1.hasmore_rows():`
+
+`    X = Table1.readtop_row()`
+
+`    i = 1`
+
+`    B = False`
+
+`    while i <= X.LetterCount:`
+
+`        if X.word[i - 1] in "aeiou":`
+
+`            B = True`
+
+`        i += 1`
+
+`    if B:`
+
+`        A += 1`
+
+`    Table_2.move(X)/`
+
 2\. What will `E` represent at the end of the execution of the following pseudocode using the “Olympics” dataset, assuming no player has won more than one medal?
 
 3\. Given the “Library” dataset with the condition that all authors have distinct names and each book is written by a single author, what will `N` represent at the end of the execution?
