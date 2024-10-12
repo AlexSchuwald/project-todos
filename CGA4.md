@@ -148,7 +148,7 @@ End isItem
 
 - [ ] `if (isItem(X, "Facewash") and isItem(X, "Soap")) { mCount = mCount + 1 bCount = bCount + 1 }`
 
-- [ ] `if (isItem(X, "Facewash")) { mCount = mCount + 1 if (isItem(X, "Soap")) { bCount = bCount + 1 } }`
+- [x] `if (isItem(X, "Facewash")) { mCount = mCount + 1 if (isItem(X, "Soap")) { bCount = bCount + 1 } }`
 
 ### 6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
 
