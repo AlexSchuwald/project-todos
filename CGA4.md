@@ -148,7 +148,7 @@ End isItem
 
 ![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5c.JPG)
 
-![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5d.JPG)
+![-scale0.50](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5d.JPG)
 
 ### 6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
 
