@@ -188,7 +188,19 @@ End customCheck
 
 - [ ] Number of pairs of words with at least two consecutive consonants
 
-### 7\. Identify the lines with potential mistakes in the given pseudocode for counting conjugate pairs in the “Words” dataset. This is a multiple-select question.
+### Two words are said to be conjugate if they fulfill following conditions:
+
+- Number of vowels are same in both the words
+
+- Number of consonants are same in both the words
+
+The given pseudocode is executed using the “Words” dataset. The variable **count** in the given
+
+pseudocode counts the number of conjugate pairs. But the pseudocode may have mistakes in one
+
+or more lines. Identify all such lines (if any). Assume that all statements not listed in the options
+
+below are free of errors. It is a Multiple Select Question
 
 ### 8\. Based on the “Scores” dataset, determine the club a student can join with 92 marks in Physics and Mathematics but 84 in Chemistry.
 
