@@ -69,7 +69,7 @@ End findDuo
 
 - [ ] Number of pairs of players from different countries with the same medals
 
-3\. Given the “Library” dataset with the condition that all authors have distinct names and each book is written by a single author, what will `N` represent at the end of the execution?
+### 3\. Given the “Library” dataset with the condition that all authors have distinct names and each book is written by a single author, what will `N` represent at the end of the execution?
 
 ```
 A = 1, N = 0, count = 0, value = 0
@@ -95,16 +95,26 @@ while (Table 1 has more rows) {
 }
 ```
 
-4\. What will `count` represent at the end of the execution of the following pseudocode?
+What will N represent at the end of execution?
 
-5\. Select the correct code fragment to complete the pseudocode for calculating the ratio of customers who purchased both “Soap” and “Facewash” to the number of customers who purchased “Facewash” in the “Shopping Bills” dataset.
+- [ ] Maximum number of books published by an author
 
-6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
+- [ ] Maximum number of books published by a pair of authors
 
-7\. Identify the lines with potential mistakes in the given pseudocode for counting conjugate pairs in the “Words” dataset. This is a multiple-select question.
+- [ ] Maximum number of books published by an author in a year
 
-8\. Based on the “Scores” dataset, determine the club a student can join with 92 marks in Physics and Mathematics but 84 in Chemistry.
+- [ ] Maximum number of books published by a pair of authors in a year
 
-9\. Identify when a student can join more than one club.
+### 4\. What will `count` represent at the end of the execution of the following pseudocode?
 
-10\. What will `A` represent at the end of the execution of the following pseudocode using the “Words” dataset?
+### 5\. Select the correct code fragment to complete the pseudocode for calculating the ratio of customers who purchased both “Soap” and “Facewash” to the number of customers who purchased “Facewash” in the “Shopping Bills” dataset.
+
+### 6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
+
+### 7\. Identify the lines with potential mistakes in the given pseudocode for counting conjugate pairs in the “Words” dataset. This is a multiple-select question.
+
+### 8\. Based on the “Scores” dataset, determine the club a student can join with 92 marks in Physics and Mathematics but 84 in Chemistry.
+
+### 9\. Identify when a student can join more than one club.
+
+### 10\. What will `A` represent at the end of the execution of the following pseudocode using the “Words” dataset?
