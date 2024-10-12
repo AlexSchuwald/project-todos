@@ -32,7 +32,7 @@
 
 - [ ] Number of words without any letters followed by a vowel
 
-- [ ] Number of words with at least one letter followed by a vowel
+- [x] Number of words with at least one letter followed by a vowel
 
 ### 2\. What will `E` represent at the end of the execution of the following pseudocode using the “Olympics” dataset, assuming no player has won more than one medal?
 
