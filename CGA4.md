@@ -202,6 +202,16 @@ or more lines. Identify all such lines (if any). Assume that all statements not 
 
 below are free of errors. It is a Multiple Select Question
 
+- [ ] Line 8: Invalid parameter is used to call the procedure inside the conditional statement
+
+- [ ] Line 8: Incorrect condition to update **count** as the number of consonants are not being compared
+
+- [ ] Line 17: Incorrect initialization of **vowelCount**
+
+- [ ] Line 17: Incorrect initialization of **i**
+
+- [ ] No mistake
+
 ### 8\. Based on the “Scores” dataset, determine the club a student can join with 92 marks in Physics and Mathematics but 84 in Chemistry.
 
 ### 9\. Identify when a student can join more than one club.
