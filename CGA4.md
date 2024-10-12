@@ -303,7 +303,7 @@ Which club can a student join if he/she gets 92 marks in Physics and Mathematics
 
 - [ ] If the student gets more than 90 marks in at least two subjects
 
-- [ ] If the student gets more than 90 marks in Physics and Chemistry
+- [x] If the student gets more than 90 marks in Physics and Chemistry
 
 - [ ] If the student gets more than 90 marks and the same marks in Physics and Chemistry
 
