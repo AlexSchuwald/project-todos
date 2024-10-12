@@ -36,8 +36,6 @@
 
 ### 2\. What will `E` represent at the end of the execution of the following pseudocode using the “Olympics” dataset, assuming no player has won more than one medal?
 
-`E = 0 while (Table 1 has more rows) { Read the first row P in Table 1 Move P to Table 2 while(Table 1 has more rows) { Read the first row Q in Table 1 if(findDuo(P, Q)) { E = E +1 } } Move Q to Table 3 } Move all rows from Table 3 to Table 1 Procedure findDuo (P, Q) if(P.Country Q. Country and P. Medal ! Q.Medal) { return (True) } else{ return(False) } End findDuo`
-
 ```
 E = 0
 
@@ -72,6 +70,30 @@ End findDuo
 - [ ] Number of pairs of players from different countries with the same medals
 
 3\. Given the “Library” dataset with the condition that all authors have distinct names and each book is written by a single author, what will `N` represent at the end of the execution?
+
+```
+A = 1, N = 0, count = 0, value = 0
+
+while (Table 1 has more rows) {
+    Read the first row X in Table 1
+    Move X to Table 2
+    while (Table 1 has more rows) {
+        Read the first row Y in Table 1   
+        if(X.Author == Y. Author) {
+            A = A + 1
+        } else {
+            Move Y to Table 3
+        }
+    }
+    if(A > N) {
+        N = A
+    }
+    A = 1
+    count = count + 1
+    Delete all rows of Table 2
+    Move all rows from Table 3 to Table 1
+}
+```
 
 4\. What will `count` represent at the end of the execution of the following pseudocode?
 
