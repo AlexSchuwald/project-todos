@@ -144,6 +144,50 @@ End isItem
 
 ### 6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
 
+```
+count = 0
+
+while (Table 1 has more rows) {
+    Read the first row x in Table 1
+    Move X to Table 2
+    while (Table 1 has more rows) {
+        Read the first row y in Table 1   
+        if(customCheck(x) and customCheck(y)) {
+            count = count + 1
+        }
+        Move Y to Table 3
+    }
+    Move all rows from Table 3 to Table 1
+}
+
+Procedure customCheck (P)
+    A = 0, i = 1
+    B = False, Flag = False
+    while (i <= P.LetterCount) {
+        if(ith letter of P.word is a consonant) {
+            A = 1
+        }
+        B = True
+    } else {
+        B = False
+    }
+    i = i + 1
+    if(A == 1) {
+        Flag = True
+    }
+    return (Flag)
+
+End customCheck
+```
+
+Number of pairs of words with exactly two consonants
+
+Number of pairs of words with at least two consonants
+
+Number of pairs of words with exactly two consecutive consonants
+
+Number of pairs of words with at least two consecutive consonants
+
 ### 7\. Identify the lines with potential mistakes in the given pseudocode for counting conjugate pairs in the “Words” dataset. This is a multiple-select question.
 
 ### 8\. Based on the “Scores” dataset, determine the club a student can join with 92 marks in Physics and Mathematics but 84 in Chemistry.
