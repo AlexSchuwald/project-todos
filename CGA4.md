@@ -142,6 +142,14 @@ Procedure isItem (Y, A)
 End isItem
 ```
 
+![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5a.JPG)
+
+![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5b.JPG)
+
+![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5c.JPG)
+
+![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5d.JPG)
+
 ### 6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
 
 ```
