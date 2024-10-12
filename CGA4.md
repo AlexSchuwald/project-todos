@@ -109,7 +109,7 @@ What will N represent at the end of execution?
 
 - [ ] Total number of books
 
-- [ ] Number of authors
+- [x] Number of authors
 
 - [ ] Number of books of same genre
 
