@@ -302,3 +302,25 @@ Which club can a student join if he/she gets 92 marks in Physics and Mathematics
 - [ ] A student cannot join more than one club
 
 ### 10\. What will `A` represent at the end of the execution of the following pseudocode using the “Words” dataset?
+
+```
+A = 0, B = 0
+P = True, Q = False
+
+while (Table 1 has more rows) {
+    Read the first row X in Table 1
+    if (X.PartOfSpeech == "Adverb" and P) {
+        P = False
+        Q = True
+    } else {
+        if(not Q) {
+            A = A + 1
+        }
+    }
+    if(X.word ends with a full stop) {
+        P = True
+        Q = False
+    }
+    Move X to Table 2
+}
+```
