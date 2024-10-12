@@ -97,7 +97,7 @@ while (Table 1 has more rows) {
 
 What will N represent at the end of execution?
 
-- [ ] Maximum number of books published by an author
+- [x] Maximum number of books published by an author
 
 - [ ] Maximum number of books published by a pair of authors
 
