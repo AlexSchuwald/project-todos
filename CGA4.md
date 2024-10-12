@@ -324,3 +324,13 @@ while (Table 1 has more rows) {
     Move X to Table 2
 }
 ```
+
+Number of adverbs before the first adverb in every sentence
+
+Number of words after the first adverb in every sentence
+
+Number of words before the first adverb or full stop in every sentence
+
+Number of adjectives before the first adverb in every sentence
+
+Number of words before the first adverb in every sentence
