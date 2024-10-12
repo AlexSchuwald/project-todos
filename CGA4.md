@@ -36,6 +36,14 @@
 
 ### 2\. What will `E` represent at the end of the execution of the following pseudocode using the “Olympics” dataset, assuming no player has won more than one medal?
 
+- [ ] Number of players from the same country with different medals
+
+- [ ] Number of players from different countries with the same medals
+
+- [ ] Number of pairs of players from the same country with different medals
+
+- [ ] Number of pairs of players from different countries with the same medals
+
 3\. Given the “Library” dataset with the condition that all authors have distinct names and each book is written by a single author, what will `N` represent at the end of the execution?
 
 4\. What will `count` represent at the end of the execution of the following pseudocode?
