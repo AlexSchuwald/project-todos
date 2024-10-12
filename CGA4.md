@@ -61,7 +61,7 @@ Procedure findDuo (P, Q)
 End findDuo
 ```
 
-- [ ] Number of players from the same country with different medals
+- [x] Number of players from the same country with different medals
 
 - [ ] Number of players from different countries with the same medals
 
