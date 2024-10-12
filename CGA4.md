@@ -202,6 +202,37 @@ or more lines. Identify all such lines (if any). Assume that all statements not 
 
 below are free of errors. It is a Multiple Select Question
 
+```
+count = 0
+
+while (Table 1 has more rows) {
+    Read the first row X in Table 1
+    Move X to Table 2
+    while (Table 1 has more rows) {
+        Read the first row Y in Table 1   
+        if(X.LetterCount == Y.LetterCount) {
+            if(vCount(X) == vCount(Y)) {
+                count = count + 1
+            }
+        }
+        Move Y to Table 3
+    }
+    Move all rows from Table 3 to Table 1
+}
+
+Procedure vCount (Z)
+    vowelCount = 0,    i = 0
+    while (i <= Z.LetterCount) {
+        if(ith letter of Z.word is a vowel) {
+            vowelCount = vowelCount + 1
+        }
+        i = i + 1
+    }
+    return (vowelCount)
+
+End vCount
+```
+
 - [ ] Line 8: Invalid parameter is used to call the procedure inside the conditional statement
 
 - [ ] Line 8: Incorrect condition to update **count** as the number of consonants are not being compared
