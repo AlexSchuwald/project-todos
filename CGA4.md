@@ -281,6 +281,16 @@ Procedure maxSubject (Z)
 End maxSubject
 ```
 
+Which club can a student join if he/she gets 92 marks in Physics and Mathematics but 84 in Chemistry?
+
+Physics club
+
+Chemistry club
+
+Mathematics
+
+The student cannot join any club
+
 ### 9\. Identify when a student can join more than one club.
 
 ### 10\. What will `A` represent at the end of the execution of the following pseudocode using the “Words” dataset?
