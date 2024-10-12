@@ -188,7 +188,7 @@ End customCheck
 
 - [ ] Number of pairs of words with at least two consecutive consonants
 
-### Two words are said to be conjugate if they fulfill following conditions:
+### 7\. Two words are said to be conjugate if they fulfill following conditions:
 
 - Number of vowels are same in both the words
 
