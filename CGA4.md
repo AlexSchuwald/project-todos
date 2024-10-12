@@ -142,7 +142,15 @@ Procedure isItem (Y, A)
 End isItem
 ```
 
-![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5a.JPG)
+```
+if (isItem(X, "Facewash")) {
+    mCount = mCount + 1
+}
+
+if (isItem(X, "Soap")) {
+    bCount = bCount + 1
+}
+```
 
 ![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5b.JPG)
 
