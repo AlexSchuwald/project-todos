@@ -293,12 +293,12 @@ Which club can a student join if he/she gets 92 marks in Physics and Mathematics
 
 ### 9\. Identify when a student can join more than one club.
 
-If the student gets more than 90 marks in at least two subjects
+- [ ] If the student gets more than 90 marks in at least two subjects
 
-If the student gets more than 90 marks in Physics and Chemistry
+- [ ] If the student gets more than 90 marks in Physics and Chemistry
 
-If the student gets more than 90 marks and the same marks in Physics and Chemistry
+- [ ] If the student gets more than 90 marks and the same marks in Physics and Chemistry
 
-A student cannot join more than one club
+- [ ] A student cannot join more than one club
 
 ### 10\. What will `A` represent at the end of the execution of the following pseudocode using the “Words” dataset?
