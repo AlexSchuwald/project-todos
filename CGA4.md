@@ -146,6 +146,10 @@ if (isItem(X, "Facewash")) { mCount = mCount + 1 } if (isItem(X, "Soap")) { bCou
 
 if (isItem(X, "Soap")) { bCount = bCount + 1 if (isItem(X, "Facewash")) { mCount = mCount + 1 } }
 
+if (isItem(X, "Facewash") and isItem(X, "Soap")) { mCount = mCount + 1 bCount = bCount + 1 }
+
+if (isItem(X, "Facewash")) { mCount = mCount + 1 if (isItem(X, "Soap")) { bCount = bCount + 1 } }
+
 ![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5b.JPG)
 
 ![](https://backend.seek.onlinedegree.iitm.ac.in/24t3_cs1001/assets/img/ct-w4-q5c.JPG)
