@@ -36,6 +36,28 @@
 
 ### 2\. What will `E` represent at the end of the execution of the following pseudocode using the “Olympics” dataset, assuming no player has won more than one medal?
 
+1 E = 0
+
+2 while (Table 1 has more rows) { 3 Read the first row P in Table 1
+
+4 Move P to Table 2 5 while(Table 1 has more rows) {
+
+6 Read the first row Q in Table 1 7 if(findDuo(P, Q)) {
+
+8 } E = E +1 9
+
+10 } Move Q to Table 3 11
+
+12 } Move all rows from Table 3 to Table 1 13
+
+14 Procedure findDuo (P, Q) 15 if(P.Country Q. Country and P. Medal ! Q.Medal) {
+
+16 } return (True) 17
+
+18 else{ return(False) 19
+
+20 End findDuo } 21
+
 - [ ] Number of players from the same country with different medals
 
 - [ ] Number of players from different countries with the same medals
