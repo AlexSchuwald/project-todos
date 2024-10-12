@@ -139,7 +139,7 @@ Procedure isItem (Y, A)
     }
     return (C)
 
-End isItem   
+End isItem
 ```
 
 ### 6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
