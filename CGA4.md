@@ -243,7 +243,43 @@ End vCount
 
 - [ ] No mistake
 
-### 8\. Based on the “Scores” dataset, determine the club a student can join with 92 marks in Physics and Mathematics but 84 in Chemistry.
+### 8\. The following pseudocode is executed using the “Scores” dataset. A student can join a subject club if his/her subject score is above the score mentioned. The variables M, P and C store the number of students in Mathematics, Physics and Chemistry clubs respectively.
+
+```
+M = 0, P = 0, C = 0
+
+while (Table 1 has more rows) {
+    Read the first row x in Table 1
+    subject = maxSubject(X)
+    if(subject == "Mathematics" and X.Mathematics > 95) {
+        M = M + 1
+    }
+    if(subject == "Physics" and X.Physics > 90) {
+        P = P + 1
+    }
+    if(subject == "Chemistry" and X.Chemistry > 90) {
+        C = C + 1
+    }
+    Move X to Table 2
+}
+
+Procedure maxSubject (Z)
+    if(Z.Physics > Z.Mathematics) {
+        if(Z.Physics > Z.Chemistry) {
+            return("Physics")
+        } else {
+            return("Chemistry")
+        }
+    } else {
+        if(Z.Mathematics > Z.Chemistry) {
+            return ("Mathematics")
+        } else {
+            return("Chemistry")
+        }
+    }
+
+End maxSubject
+```
 
 ### 9\. Identify when a student can join more than one club.
 
