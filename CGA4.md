@@ -291,7 +291,7 @@ End maxSubject
 
 Which club can a student join if he/she gets 92 marks in Physics and Mathematics but 84 in Chemistry?
 
-- [ ] Physics club
+- [x] Physics club
 
 - [ ] Chemistry club
 
