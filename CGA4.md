@@ -1,6 +1,6 @@
 # CGA4
 
-1\. What will `A` represent at the end of the execution of the following pseudocode using the “Words” dataset?
+### 1\. What will `A` represent at the end of the execution of the following pseudocode using the “Words” dataset?
 
 `A = 0`
 
@@ -26,7 +26,15 @@
 
 `    Table_2.move(X)/`
 
-2\. What will `E` represent at the end of the execution of the following pseudocode using the “Olympics” dataset, assuming no player has won more than one medal?
+Number of words with at most one letter followed by a vowel
+
+Number of words with exactly one letter followed by a vowel
+
+Number of words without any letters followed by a vowel
+
+Number of words with at least one letter followed by a vowel
+
+### 2\. What will `E` represent at the end of the execution of the following pseudocode using the “Olympics” dataset, assuming no player has won more than one medal?
 
 3\. Given the “Library” dataset with the condition that all authors have distinct names and each book is written by a single author, what will `N` represent at the end of the execution?
 
