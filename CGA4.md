@@ -107,6 +107,15 @@ What will N represent at the end of execution?
 
 ### 4\. What will `count` represent at the end of the execution of the following pseudocode?
 
+\
+Total number of books
+
+Number of authors
+
+Number of books of same genre
+
+Number of authors who wrote books of same genre
+
 ### 5\. Select the correct code fragment to complete the pseudocode for calculating the ratio of customers who purchased both “Soap” and “Facewash” to the number of customers who purchased “Facewash” in the “Shopping Bills” dataset.
 
 ### 6\. What will `count` represent at the end of the execution of the following pseudocode using the “Words” dataset?
