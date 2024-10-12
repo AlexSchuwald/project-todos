@@ -194,7 +194,7 @@ End customCheck
 
 - [ ] Number of pairs of words with exactly two consecutive consonants
 
-- [ ] Number of pairs of words with at least two consecutive consonants
+- [x] Number of pairs of words with at least two consecutive consonants
 
 ### 7\. Two words are said to be conjugate if they fulfill following conditions:
 
@@ -247,7 +247,7 @@ End vCount
 
 - [ ] Line 17: Incorrect initialization of **vowelCount**
 
-- [ ] Line 17: Incorrect initialization of **i**
+- [x] Line 17: Incorrect initialization of **i**
 
 - [ ] No mistake
 
