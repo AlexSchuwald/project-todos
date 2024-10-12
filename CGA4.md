@@ -341,4 +341,4 @@ while (Table 1 has more rows) {
 
 - [ ] Number of adjectives before the first adverb in every sentence
 
-- [ ] Number of words before the first adverb in every sentence
+- [x] Number of words before the first adverb in every sentence
