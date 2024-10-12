@@ -180,13 +180,13 @@ Procedure customCheck (P)
 End customCheck
 ```
 
-Number of pairs of words with exactly two consonants
+- [ ] Number of pairs of words with exactly two consonants
 
-Number of pairs of words with at least two consonants
+- [ ] Number of pairs of words with at least two consonants
 
-Number of pairs of words with exactly two consecutive consonants
+- [ ] Number of pairs of words with exactly two consecutive consonants
 
-Number of pairs of words with at least two consecutive consonants
+- [ ] Number of pairs of words with at least two consecutive consonants
 
 ### 7\. Identify the lines with potential mistakes in the given pseudocode for counting conjugate pairs in the “Words” dataset. This is a multiple-select question.
 
