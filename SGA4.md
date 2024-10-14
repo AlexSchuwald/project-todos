@@ -77,6 +77,8 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 ### What proportion of students of good economic conditions are borderline? (Enter the answer correct to 2 decimal accuracy)
 
+0\.39
+
 ### What percentage of bright students are in poor economic conditions? (Enter the answer correct to 2 decimal accuracy)
 
 ### What percentage of average students are in good economic conditions? (Enter the answer correct to 2 decimal accuracy)
