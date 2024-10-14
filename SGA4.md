@@ -48,12 +48,14 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 ## **2\. 725 college students are classified according to their intelligence and economic conditions and the results are as follows.**
 
-| **Economic Conditions**                                      | **Intelligence level** |
-|----------------------------------------------------------|--------------------|
-|                                                          | Bright             | Average | Dull | Borderline |
-| Good                                                     | 59                 | 85      | 84   | 149        |
-| Poor                                                     | 68                 | 93      | 83   | 104        |
-| Table Q4.2.G: Intelligence Level and Economic Conditions |                    |         |      |            |
+| **Economic Conditions** | **Intelligence level** |
+|---------------------|--------------------|
+|                     | Bright             | Average | Dull | Borderline |
+| Good                | 59                 | 85      | 84   | 149        |
+| Poor                | 68                 | 93      | 83   | 104        |
+|                     |                    |         |      |            |
+
+| Table Q4.2.G: Intelligence Level and Economic Conditions |
 ### Are you able to see all the eight values in a contigency Table Q4.2.G?(Type 0 for No and type 1 for Yes)
 
 ### What proportion of total students are dull? (Enter the answer correct to 2 decimal accuracy)
