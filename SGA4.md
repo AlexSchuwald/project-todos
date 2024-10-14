@@ -65,6 +65,8 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 ### Are you able to see all the eight values in a contigency Table Q4.2.G?(Type 0 for No and type 1 for Yes)
 
+1
+
 ### What proportion of total students are dull? (Enter the answer correct to 2 decimal accuracy)
 
 ### What proportion of total students are in poor economic conditions? (Enter the answer correct to 2 decimal accuracy)
