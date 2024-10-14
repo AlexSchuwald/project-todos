@@ -24,6 +24,8 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 ### What is the sample standard deviation of sales of BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
 
+/
+
 ### What is the sample co-variance between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
 
 ### What is the correlation coefficient between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
