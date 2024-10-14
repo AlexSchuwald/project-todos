@@ -32,6 +32,8 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 ### What is the correlation coefficient between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
 
+0\.33
+
 ### What can you say about the linear relationship between the sales of OnePlus and BBKElectronics?(More than one option can be correct)
 
 - [ ] Positive
