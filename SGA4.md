@@ -1,6 +1,6 @@
 # SGA4
 
-1. The phone brands OnePlus, Vivo and Oppo are owned by BBK Electronics. Table 4.1.G represents the data for the sales (in Lakhs) of OnePlus and BBK Electronics by different dealers in Chennai and Punjab in the year 2010.
+### 1\. The phone brands OnePlus, Vivo and Oppo are owned by BBK Electronics. Table 4.1.G represents the data for the sales (in Lakhs) of OnePlus and BBK Electronics by different dealers in Chennai and Punjab in the year 2010.
 
 | **Dealer’s Location** | **OnePlus** | **BBK Electronics** |
 |-------------------|---------|-----------------|
@@ -18,15 +18,15 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 - [ ] Yes
 
-### 2\. What is the population standard deviation of sales of OnePlus?(Enter the answer correct to 2 decimal accuracy)
+### What is the population standard deviation of sales of OnePlus?(Enter the answer correct to 2 decimal accuracy)
 
-What is the sample standard deviation of sales of BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
+### What is the sample standard deviation of sales of BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
 
-What is the sample co-variance between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
+### What is the sample co-variance between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
 
-What is the correlation coefficient between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
+### What is the correlation coefficient between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
 
-What can you say about the linear relationship between the sales of OnePlus and BBKElectronics?(More than one option can be correct)
+### What can you say about the linear relationship between the sales of OnePlus and BBKElectronics?(More than one option can be correct)
 
 Positive
 
