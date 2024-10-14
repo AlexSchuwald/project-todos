@@ -2,16 +2,16 @@
 
 The phone brands OnePlus, Vivo and Oppo are owned by BBK Electronics. Table 4.1.G represents the data for the sales (in Lakhs) of OnePlus and BBK Electronics by different dealers in Chennai and Punjab in the year 2010.
 
-| **Dealer’s Location**        | **OnePlus** | **BBK Electronics** |
-|--------------------------|---------|-----------------|
-| Chennai                  | 4       | 13              |
-| Punjab                   | 6       | 15              |
-| Chennai                  | 4       | 11              |
-| Punjab                   | 3       | 10              |
-| Chennai                  | 3       | 15              |
-| Punjab                   | 5       | 12              |
-| Chennai                  | 4       | 14              |
-| Table Q4.1.G: Sales Data |         |                 |
+| **Dealer’s Location** | **OnePlus** | **BBK Electronics** |
+|-------------------|---------|-----------------|
+| Chennai           | 4       | 13              |
+| Punjab            | 6       | 15              |
+| Chennai           | 4       | 11              |
+| Punjab            | 3       | 10              |
+| Chennai           | 3       | 15              |
+| Punjab            | 5       | 12              |
+| Chennai           | 4       | 14              |
+|                   |         |                 |
 Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electronics?
 
 No
