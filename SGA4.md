@@ -30,6 +30,10 @@
 
 ###   7\. An assessment of whether the sales of OnePlus are strongly influenced by the dealer's location.
 
+- [ ] No
+
+- [ ] Yes
+
 ###   8\. Confirmation of the ability to see the 8 values in the contingency table.
 
 ###   9\. The proportion of total students who are dull.
