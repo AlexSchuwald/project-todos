@@ -44,9 +44,9 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 - [ ] Absence of linear relationship
 
-- [x] Weak
+- [ ] Weak
 
-- [ ] Moderate
+- [x] Moderate
 
 ### Is the sales of OnePlus strongly influenced by the location of dealer?
 
@@ -54,15 +54,14 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 - [ ] Yes
 
-##  **725 college students are classified according to their intelligence and economic conditions and the results are as follows.**
+## **725 college students are classified according to their intelligence and economic conditions and the results are as follows.**
 
 | **Economic Conditions** | **Intelligence level** |
 |---------------------|--------------------|
-|                     | Bright             | Average | Dull | Borderline |
-| Good                | 59                 | 85      | 84   | 149        |
-| Poor                | 68                 | 93      | 83   | 104        |
-|                     |                    |         |      |            |
-
+|                     | Bright             |
+| Good                | 59                 |
+| Poor                | 68                 |
+|                     |                    |
 ### Are you able to see all the eight values in a contigency Table Q4.2.G?(Type 0 for No and type 1 for Yes)
 
 1
