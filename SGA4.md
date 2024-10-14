@@ -1,6 +1,6 @@
 # SGA4
 
-### 1\. The phone brands OnePlus, Vivo and Oppo are owned by BBK Electronics. Table 4.1.G represents the data for the sales (in Lakhs) of OnePlus and BBK Electronics by different dealers in Chennai and Punjab in the year 2010.
+## **1\. The phone brands OnePlus, Vivo and Oppo are owned by BBK Electronics. Table 4.1.G represents the data for the sales (in Lakhs) of OnePlus and BBK Electronics by different dealers in Chennai and Punjab in the year 2010.**
 
 | **Dealer’s Location** | **OnePlus** | **BBK Electronics** |
 |-------------------|---------|-----------------|
@@ -28,27 +28,27 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 ### What can you say about the linear relationship between the sales of OnePlus and BBKElectronics?(More than one option can be correct)
 
-Positive
+- [ ] Positive
 
-Strong
+- [ ] Strong
 
-Negative
+- [ ] Negative
 
-Absence of linear relationship
+- [ ] Absence of linear relationship
 
-Weak
+- [ ] Weak
 
-Moderate
+- [ ] Moderate
 
-Is the sales of OnePlus strongly influenced by the location of dealer?
+### Is the sales of OnePlus strongly influenced by the location of dealer?
 
-No
+- [ ] No
 
-Yes
+- [ ] Yes
 
-**8th Question is the common data. Use the data in the question 8 to answer from Question number 9 to question number 13.**
+## **2\. Question is the common data.**
 
-725 college students are classified according to their intelligence and economic conditions and the results are as follows.
+### 725 college students are classified according to their intelligence and economic conditions and the results are as follows.
 
 | **Economic Conditions**                                      | **Intelligence level** |
 |----------------------------------------------------------|--------------------|
