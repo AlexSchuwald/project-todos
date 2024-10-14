@@ -18,7 +18,7 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 - [ ] Yes
 
-What is the population standard deviation of sales of OnePlus?(Enter the answer correct to 2 decimal accuracy)
+### 2\. What is the population standard deviation of sales of OnePlus?(Enter the answer correct to 2 decimal accuracy)
 
 What is the sample standard deviation of sales of BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
 
