@@ -46,8 +46,6 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 - [ ] Yes
 
-## **2\. Question is the common data.**
-
 ### 725 college students are classified according to their intelligence and economic conditions and the results are as follows.
 
 | **Economic Conditions**                                      | **Intelligence level** |
