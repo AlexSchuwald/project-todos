@@ -2,9 +2,9 @@
 
 ###   1\. Verification of the ability to see the sales data of 7 dealers' locations.
 
-No
+- [ ] No
 
-Yes
+- [ ] Yes
 
 ###   2\. The population standard deviation of OnePlus sales.
 
