@@ -50,7 +50,7 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 ### Is the sales of OnePlus strongly influenced by the location of dealer?
 
-- [ ] No
+- [x] No
 
 - [ ] Yes
 
