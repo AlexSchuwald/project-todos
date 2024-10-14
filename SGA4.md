@@ -16,6 +16,18 @@
 
 ###   6\. An analysis of the linear relationship between OnePlus and BBK Electronics sales.
 
+- [ ] Positive
+
+- [ ] Strong
+
+- [ ] Negative
+
+- [ ] Absence of linear relationship
+
+- [ ] Weak
+
+- [ ] Moderate
+
 ###   7\. An assessment of whether the sales of OnePlus are strongly influenced by the dealer's location.
 
 ###   8\. Confirmation of the ability to see the 8 values in the contingency table.
