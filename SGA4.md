@@ -81,4 +81,8 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 ### What percentage of bright students are in poor economic conditions? (Enter the answer correct to 2 decimal accuracy)
 
+53\.54
+
 ### What percentage of average students are in good economic conditions? (Enter the answer correct to 2 decimal accuracy)
+
+47\.75
