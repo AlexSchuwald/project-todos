@@ -2,7 +2,7 @@
 
 The questions on this page are:
 
-1\.**\*_Question 1 (0 points)_\***: The phone brands OnePlus, Vivo and Oppo are owned by BBK Electronics. Table 4.1.G represents the data for the sales (in Lakhs) of OnePlus and BBK Electronics by different dealers in Chennai and Punjab in the year 2010.
+1\. The phone brands OnePlus, Vivo and Oppo are owned by BBK Electronics. Table 4.1.G represents the data for the sales (in Lakhs) of OnePlus and BBK Electronics by different dealers in Chennai and Punjab in the year 2010.
 
 2\.**\*_Question 2 (1 point)_\***: What is the population standard deviation of sales of OnePlus? (Enter the answer correct to 2 decimal accuracy)
 
