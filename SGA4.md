@@ -16,7 +16,7 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 - [ ] No
 
-- [ ] Yes
+- [x] Yes
 
 ### What is the population standard deviation of sales of OnePlus?(Enter the answer correct to 2 decimal accuracy)
 
