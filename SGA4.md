@@ -12,29 +12,14 @@ The phone brands OnePlus, Vivo and Oppo are owned by BBK Electronics. Table 4.1.
 | Punjab            | 5       | 12              |
 | Chennai           | 4       | 14              |
 |                   |         |                 |
-Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electronics?
-
-No
-
-Yes
 
 What is the population standard deviation of sales of OnePlus?(Enter the answer correct to 2 decimal accuracy)
 
-**_1 point_**
-
 What is the sample standard deviation of sales of BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
-
-**_1 point_**
 
 What is the sample co-variance between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
 
-**_1 point_**
-
 What is the correlation coefficient between the sales of OnePlus and BBK Electronics?(Enter the answer correct to 2 decimal accuracy)
-
-**_1 point_**
-
-**_1 point_**
 
 What can you say about the linear relationship between the sales of OnePlus and BBKElectronics?(More than one option can be correct)
 
@@ -49,8 +34,6 @@ Absence of linear relationship
 Weak
 
 Moderate
-
-**_1 point_**
 
 Is the sales of OnePlus strongly influenced by the location of dealer?
 
@@ -70,22 +53,12 @@ Yes
 | Table Q4.2.G: Intelligence Level and Economic Conditions |                    |         |      |            |
 Are you able to see all the eight values in a contigency Table Q4.2.G?(Type 0 for No and type 1 for Yes)
 
-**_0 points_**
-
 What proportion of total students are dull? (Enter the answer correct to 2 decimal accuracy)
-
-**_1 point_**
 
 What proportion of total students are in poor economic conditions? (Enter the answer correct to 2 decimal accuracy)
 
-**_1 point_**
-
 What proportion of students of good economic conditions are borderline? (Enter the answer correct to 2 decimal accuracy)
 
-**_1 point_**
-
 What percentage of bright students are in poor economic conditions? (Enter the answer correct to 2 decimal accuracy)
-
-**_1 point_**
 
 What percentage of average students are in good economic conditions? (Enter the answer correct to 2 decimal accuracy)
