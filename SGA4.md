@@ -44,7 +44,7 @@ Are you able to see 7 dealer's location and the sales of OnePlus and BBK Electro
 
 - [ ] Absence of linear relationship
 
-- [ ] Weak
+- [x] Weak
 
 - [ ] Moderate
 
