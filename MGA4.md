@@ -70,7 +70,7 @@ Consider four polynomials p(x), q(x), r(x) and s(x) as follows: p(x) = x ^ 2 - 5
 
 Which of the following options is/are true?
 
- There are 5 distinct roots in s(x) .
+ There are 5 distinct roots in s(x) 
 
  There are 3 turning points in s(x) 
 
