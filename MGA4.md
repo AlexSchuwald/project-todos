@@ -46,25 +46,25 @@
 
 - [ ] g(x) is positive when x ∈ (-∞, -6) ∪ (-1, -2).
 
-7. Consider a polynomial function f(x) of degree 4 which intersects the X-axis at x = 2, x = -3 and x = -4. Moreover, f(x) < 0 when x ∈ (1, 2), and f(x) > 0 when x ∈ (-1, 1). Find out the equation of the polynomial
+### Consider a polynomial function f(x) of degree 4 which intersects the X-axis at x = 2, x = -3 and x = -4. Moreover, f(x) < 0 when x ∈ (1, 2), and f(x) > 0 when x ∈ (-1, 1). Find out the equation of the polynomial
 
-- a(x-2)²(x²+7x+12), a > 0
+- [ ] a(x-2)²(x²+7x+12), a > 0
 
-- a(x⁴+4x³-7x²-22x+24), a > 0
+- [ ] a(x⁴+4x³-7x²-22x+24), a > 0
 
-- a(x-2)²(x²+2x-8), a > 0
+- [ ] a(x-2)²(x²+2x-8), a > 0
 
-- a(x⁴-5x³-7x²-50x-24), a > 0
+- [ ] a(x⁴-5x³-7x²-50x-24), a > 0
 
 ### Consider two polynomials p(x) = -x⁵ + 5x⁴ - 7x² and q(x) = -x⁵ + 5x⁴ - x² - 2. Which of the following options is/are true?
 
-- q(x) → ∞ as x → ∞
+- [ ] q(x) → ∞ as x → ∞
 
-- p(x) → -∞ as x → ∞
+- [ ] p(x) → -∞ as x → ∞
 
-- p(x) has at most 4 turning points.
+- [ ] p(x) has at most 4 turning points.
 
-- The quotient obtained while dividing q(x) by p(x) is a constant.
+- [ ] The quotient obtained while dividing q(x) by p(x) is a constant.
 
 ### Consider four polynomials p(x), q(x), r(x) and s(x) as follows: 
 
@@ -85,3 +85,5 @@ Which of the following options is/are true?
 - [ ] Multiplicity of the root 1 is 2 in s(x) 
 
 - [ ] Multiplicity of the root 3 is 1 in s(x)
+
+10) Let r(2) be a polynomial function which is obtained as the quotient after dividing the polynomial p(x) = (x+5) (x-3) (x²-4) by the polynomial q(x) = (x-2) (2+x). Choose the correct option which represents the polynomial r(x) most appropriately.
