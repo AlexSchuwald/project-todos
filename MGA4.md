@@ -55,3 +55,13 @@
 - a(x-2)²(x²+2x-8), a > 0
 
 - a(x⁴-5x³-7x²-50x-24), a > 0
+
+8. Consider two polynomials p(x) = -x⁵ + 5x⁴ - 7x² and q(x) = -x⁵ + 5x⁴ - x² - 2. Which of the following options is/are true?
+
+- q(x) → ∞ as x → ∞
+
+- p(x) → -∞ as x → ∞
+
+- p(x) has at most 4 turning points.
+
+- The quotient obtained while dividing q(x) by p(x) is a constant.
