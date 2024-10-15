@@ -45,3 +45,13 @@
 - [ ] f(x) is negative when x ∈ \[-4, 3\] ∪ (3, ∞).
 
 - [ ] g(x) is positive when x ∈ (-∞, -6) ∪ (-1, -2).
+
+7. Consider a polynomial function f(x) of degree 4 which intersects the X-axis at x = 2, x = -3 and x = -4. Moreover, f(x) < 0 when x ∈ (1, 2), and f(x) > 0 when x ∈ (-1, 1). Find out the equation of the polynomial
+
+- a(x-2)²(x²+7x+12), a > 0
+
+- a(x⁴+4x³-7x²-22x+24), a > 0
+
+- a(x-2)²(x²+2x-8), a > 0
+
+- a(x⁴-5x³-7x²-50x-24), a > 0
