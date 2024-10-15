@@ -19,3 +19,13 @@
 - [ ] \\frac{1}{10000}(x+1)^2(x-2)(x+3)(x+4)(x-5)^2(x-6)^2(x+7)
 
 - [ ] \-\\frac{1}{1000}(x+1)^2(x-2)(x+3)^2(x+4)(5-x)(x-6)^2
+
+### Consider a polynomial function p(x) = -(x²-16)(x-3)²(2-x)²(x+9). Choose the set of correct options.
+
+- [ ] p(x) is strictly increasing when x ∈ (4, ∞)
+
+- [ ] p(x) is strictly decreasing when x ∈ (-∞, -9)
+
+- [ ] Total number of turning points of p(x) are 6.
+
+- [ ] Total number of turning points of p(x) are 7.
