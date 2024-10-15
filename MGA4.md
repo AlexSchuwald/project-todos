@@ -66,7 +66,15 @@
 
 - The quotient obtained while dividing q(x) by p(x) is a constant.
 
-### Consider four polynomials p(x), q(x), r(x) and s(x) as follows: p(x) = x ^ 2 - 5x - 6 q(x) = x + 1 r(x) = 2x ^ 3 - 4x ^ 2 - 6x s(x) = p(x) \* q(x) \* r(x) 
+### Consider four polynomials p(x), q(x), r(x) and s(x) as follows: 
+
+p(x) = x ^ 2 - 5x - 6
+
+q(x) = x + 1
+
+r(x) = 2x ^ 3 - 4x ^ 2 - 6x
+
+s(x) = p(x) \* q(x) \* r(x) 
 
 Which of the following options is/are true?
 
