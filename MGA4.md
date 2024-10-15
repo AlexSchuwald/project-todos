@@ -70,4 +70,6 @@ Consider four polynomials p(x), q(x), r(x) and s(x) as follows: p(x) = x ^ 2 - 5
 
 Which of the following options is/are true?
 
- There are 5 distinct roots in s(x) . There are 3 turning points in s(x) Multiplicity of the root 1 is 2 in s(x) Multiplicity of the root 3 is 1 in s(x)
+ There are 5 distinct roots in s(x) .
+
+ There are 3 turning points in s(x) Multiplicity of the root 1 is 2 in s(x) Multiplicity of the root 3 is 1 in s(x)
