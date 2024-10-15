@@ -29,3 +29,5 @@
 - [ ] Total number of turning points of p(x) are 6.
 
 - [ ] Total number of turning points of p(x) are 7.
+
+### An ant named B, wants to climb an uneven cliff and reach its anthill (i.e., home of ant). On its way home, B makes sure that it collects some food. A group of ants have reached the food locations which are at x-intercepts of the function f(x) = -(x²-19)((x-9)³-1). As ants secrete pheromones (a form of signals which other ants can detect and reach the food location), B gets to know the food location. Then the sum of the coordinates of all the food locations is?
