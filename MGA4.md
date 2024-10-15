@@ -66,8 +66,6 @@
 
 - The quotient obtained while dividing q(x) by p(x) is a constant.
 
-The extracted text from the image is:
-
 9. Consider four polynomials (p(x),q(x),r(x)) and (s(x)) as follows:
 
 \[p(x)=x^{2}-5x-6\]
@@ -77,13 +75,3 @@ The extracted text from the image is:
 \[r(x)=2x^{3}-4x^{2}-6x\] \[s(x)=p(x)q(x)r(x)\]
 
 Which of the following options is/are true?
-
-```
-                                There are 5 distinct roots in \(s(x)\)
-
-                                There are 3 turning points in \(s(x)\)
-
-                                Multiplicity of the root 1 is 2 in \(s(x)\)
-
-                                Multiplicity of the root 3 is 1 in \(s(x)\)
-```
