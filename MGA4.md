@@ -32,6 +32,8 @@
 
 ### An ant named B, wants to climb an uneven cliff and reach its anthill (i.e., home of ant). On its way home, B makes sure that it collects some food. A group of ants have reached the food locations which are at x-intercepts of the function f(x) = -(x²-19)((x-9)³-1). As ants secrete pheromones (a form of signals which other ants can detect and reach the food location), B gets to know the food location. Then the sum of the coordinates of all the food locations is?
 
+10
+
 ### The Ministry of Road Transport and Highways wants to connect three aspirational districts with two roads r₁ and 72. Two roads are connected if they intersect. The shape of the two roads r₁ and 2 follows polynomial curve f(x) = (x-19)(x-17)² and g(x) = -(x-19)(x-17) respectively. What will be the x-coordinate of the third aspirational district, if the first two are at x-intercepts of f(x) and g(x).
 
 ### Consider f(x) = x³ - 4x² - 17x + 60 and g(x) = x³ + 5x² - 8x - 12, whose one of the roots are given in the set {3, 2, -3, -2}. Choose the set of correct options regarding f(x) and g(x).
