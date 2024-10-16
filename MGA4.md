@@ -22,7 +22,7 @@
 
 ### Consider a polynomial function p(x) = -(x²-16)(x-3)²(2-x)²(x+9). Choose the set of correct options.
 
-- [ ] p(x) is strictly increasing when x ∈ (4, ∞)
+- [x] p(x) is strictly increasing when x ∈ (4, ∞)
 
 - [ ] p(x) is strictly decreasing when x ∈ (-∞, -9)
 
