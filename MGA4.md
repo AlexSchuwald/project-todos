@@ -66,7 +66,7 @@
 
 - [ ] p(x) → -∞ as x → ∞
 
-- [ ] p(x) has at most 4 turning points.
+- [x] p(x) has at most 4 turning points.
 
 - [ ] The quotient obtained while dividing q(x) by p(x) is a constant.
 
