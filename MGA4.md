@@ -92,4 +92,4 @@ Which of the following options is/are true?
 
 ### Let r(x) be a polynomial function which is obtained as the quotient after dividing the polynomial p(x) = (x+5) (x-3) (x²-4) by the polynomial q(x) = (x-2) (2+x). Choose the correct option which represents the polynomial r(x) most appropriately.
 
-1
+1st
