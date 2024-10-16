@@ -64,7 +64,7 @@
 
 - [ ] q(x) → ∞ as x → ∞
 
-- [ ] p(x) → -∞ as x → ∞
+- [x] p(x) → -∞ as x → ∞
 
 - [x] p(x) has at most 4 turning points.
 
