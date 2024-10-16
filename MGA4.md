@@ -12,7 +12,7 @@
 
 ### Which among the following function first increases and then decreases in all the intervals (-4, -3) and (-1, 2) and (5, 6)?
 
-- [ ] \-\\frac{1}{10000}(x+1)^2(x-2)(x+3)^2(x+4)^2(5-x)^2(x-6)^2(3-x)
+- [x] \-\\frac{1}{10000}(x+1)^2(x-2)(x+3)^2(x+4)^2(5-x)^2(x-6)^2(3-x)
 
 - [ ] \\frac{1}{10000}(x+1)^2(x-2)(x+3)(x+4)(x-5)^2(x-6)^2
 
