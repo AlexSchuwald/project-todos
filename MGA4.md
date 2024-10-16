@@ -90,4 +90,4 @@ Which of the following options is/are true?
 
 - [x] Multiplicity of the root 3 is 1 in s(x)
 
-### Let r(2) be a polynomial function which is obtained as the quotient after dividing the polynomial p(x) = (x+5) (x-3) (x²-4) by the polynomial q(x) = (x-2) (2+x). Choose the correct option which represents the polynomial r(x) most appropriately.
+### Let r(x) be a polynomial function which is obtained as the quotient after dividing the polynomial p(x) = (x+5) (x-3) (x²-4) by the polynomial q(x) = (x-2) (2+x). Choose the correct option which represents the polynomial r(x) most appropriately.
