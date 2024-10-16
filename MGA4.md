@@ -26,7 +26,7 @@
 
 - [x] p(x) is strictly decreasing when x ∈ (-∞, -9)
 
-- [x] Total number of turning points of p(x) are 6.
+- [ ] Total number of turning points of p(x) are 6.
 
 - [ ] Total number of turning points of p(x) are 7.
 
