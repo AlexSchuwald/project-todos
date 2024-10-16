@@ -52,7 +52,7 @@
 
 ### Consider a polynomial function f(x) of degree 4 which intersects the X-axis at x = 2, x = -3 and x = -4. Moreover, f(x) < 0 when x ∈ (1, 2), and f(x) > 0 when x ∈ (-1, 1). Find out the equation of the polynomial
 
-- [ ] a(x-2)²(x²+7x+12), a > 0
+- [x] a(x-2)²(x²+7x+12), a > 0
 
 - [ ] a(x⁴+4x³-7x²-22x+24), a > 0
 
