@@ -42,7 +42,7 @@
 
 - [ ] The f(x) cuts the X-axis at 3, 5 and 4.
 
-- [ ] The g(x) cuts the X-axis at 2, 6 and -1.
+- [x] The g(x) cuts the X-axis at 2, 6 and -1.
 
 - [ ] If x ∈ (-6, 2), then g(x) is positive.
 
