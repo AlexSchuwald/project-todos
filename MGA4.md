@@ -6,7 +6,7 @@
 
 - [ ] g has two turning points and there are no turning points with negative y-coordinate.
 
-- [ ] f has two turning points and y-coordinate of only one turning point is negative.
+- [x] f has two turning points and y-coordinate of only one turning point is negative.
 
 - [ ] f is strictly decreasing in \[10, ∞).
 
