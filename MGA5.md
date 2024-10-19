@@ -272,6 +272,8 @@ Consider the following information:
 
 What will be the value of **posSen** at the end of the execution of the above pseudocode? (NAT)
 
+\--> 
+
 ### Question 8
 
 Statement
