@@ -106,11 +106,11 @@ Consider the procedure given below. If L1 and L2 are two lists, and L = eliminat
 
 ### **Question 4 \[4 Marks\]**
 
-## **Statement**
+**Statement**
 
 Choose the correct options(s) regarding L. It is a Multiple Select Question (MSQ).
 
-## **Options**
+**Options**
 
 (a)\
 It will contain all the elements of L2 that are not present in L1
@@ -124,11 +124,7 @@ It will contain all the elements common to L1 and L2
 (d)\
 It will contain the elements present in L1 or L2 but not both
 
----
-
----
-
-\# Question 5 \[3 Marks\]
+### Question 5 \[3 Marks\]
 
 ## **Statement**
 
