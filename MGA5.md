@@ -52,7 +52,7 @@ What will be the value of `mList` at the end of the execution of the given pseud
 - [ ] **(c)**\
   \[\[0, 210\], \[1, 198\], \[2, 188\], \[3, 173\], \[4, 240\]\]
 
-- [ ] **(d)**\
+- [x] **(d)**\
   \[210, 198, 188, 173, 240\]
 
 ### Question 3 \[3 Marks\]
