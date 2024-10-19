@@ -27,9 +27,9 @@ Options
 (d)\
 \[210, 198, 188, 173, 240\]
 
-\## Question-2 \[2 Marks\]
+### Question-2 
 
-### **Statement**
+**Statement**
 
 What will be the value of `mList` at the end of the execution of the given pseudocode?
 
@@ -41,7 +41,7 @@ What will be the value of `mList` at the end of the execution of the given pseud
 5  }
 ```
 
-### **Options**
+**Options**
 
 **(a)**\
 \[0, 210, 1, 198, 2, 188, 3, 173, 4, 240\]
@@ -55,13 +55,9 @@ What will be the value of `mList` at the end of the execution of the given pseud
 **(d)**\
 \[210, 198, 188, 173, 240\]
 
----
+### Question 3 \[3 Marks\]
 
----
-
-\## Question 3 \[3 Marks\]
-
-### **Statement**
+**Statement**
 
 Let N be a list of first 50 positive integers (i.e., N = \[1, 2, 3, ……, 49, 50\]). What will be the value of count at the end of the execution of the given pseudocode? (NAT)
 
