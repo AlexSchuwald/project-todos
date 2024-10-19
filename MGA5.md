@@ -317,13 +317,13 @@ Mona tells Sona that at least 50 percent of sentences have nouns just after an a
 
 Options
 
-(a)\
-Line 4: Invalid addition operation for appending in posList
+- [ ] (a)\
+  Line 4: Invalid addition operation for appending in posList
 
-(b)\
-Line 7: Invalid increment of trueCount
+- [x] (b)\
+  Line 7: Invalid increment of trueCount
 
-(c)
+- [ ] (c)
 
 Line 9 - 11: These three lines should be replaced by
 
@@ -331,7 +331,7 @@ Line 9 - 11: These three lines should be replaced by
 totalCount = totalCount + 1
 ```
 
-(d)
+- [ ] (d)
 
 Line 26: The current statement should be replaced by
 
