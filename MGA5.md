@@ -82,7 +82,7 @@ Let N be a list of first 50 positive integers (i.e., N = \[1, 2, 3, ……, 49, 
 18  End someList
 ```
 
-0
+\--> 0
 
 ## **Statement**
 
