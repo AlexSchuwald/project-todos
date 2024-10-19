@@ -4,4 +4,4 @@
 
 2. UX enter problem
 
-3. DARK MO
+3. DARK MODE
