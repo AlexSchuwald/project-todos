@@ -126,11 +126,11 @@ It will contain the elements present in L1 or L2 but not both
 
 ### Question 5 \[3 Marks\]
 
-## **Statement**
+**Statement**
 
 Which of the following option(s) is/are always correct? It is a Multiple Select Question (MSQ).
 
-## **Options**
+**Options**
 
 **(a)**\
 length(L1) - length(L2) = Length(L)
@@ -146,9 +146,7 @@ length(L2) <= length(L)
 
 ---
 
----
-
-\# Question 6 \[5 Marks\]
+### Question 6 \[5 Marks\]
 
 ## **Statement**
 
