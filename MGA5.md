@@ -218,11 +218,25 @@ End isPerfect
 
 ` while(i <= X.LetterCount){ `
 
-`A = ith letter in X.Word if(member(C,A)){ return(True) } else{ C = C ++ [A] } i = i + 1 } return(False) End isPerfect`
+`A = ith letter in X.Word `
 
-\## Question 7 \[5 Marks\]
+`if(member(C,A)){`
 
-### **Statement**
+` return(True) `
+
+`} `
+
+`else{ C = C ++ [A] }`
+
+`i = i + 1 }`
+
+` return(False) `
+
+`End isPerfect`
+
+### Question 7 \[5 Marks\]
+
+**Statement**
 
 The given pseudocode is executed using a dataset having the same fields as the “Words” dataset, and contains the following words -
 
