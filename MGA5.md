@@ -114,17 +114,17 @@ Choose the correct options(s) regarding L. It is a Multiple Select Question (MSQ
 
 **Options**
 
-(a)\
-It will contain all the elements of L2 that are not present in L1
+- [ ] (a)\
+  It will contain all the elements of L2 that are not present in L1
 
-(b)\
-It will contain all the elements of L1 that are not present in L2
+- [x] (b)\
+  It will contain all the elements of L1 that are not present in L2
 
-(c)\
-It will contain all the elements common to L1 and L2
+- [ ] (c)\
+  It will contain all the elements common to L1 and L2
 
-(d)\
-It will contain the elements present in L1 or L2 but not both
+- [ ] (d)\
+  It will contain the elements present in L1 or L2 but not both
 
 ### Question 5 \[3 Marks\]
 
@@ -134,17 +134,17 @@ Which of the following option(s) is/are always correct? It is a Multiple Select 
 
 **Options**
 
-**(a)**\
-length(L1) - length(L2) = Length(L)
+- [ ] **(a)**\
+  length(L1) - length(L2) = Length(L)
 
-**(b)**\
-length(L1) > length(L2)
+- [ ] **(b)**\
+  length(L1) > length(L2)
 
-**(c)**\
-length(L1) >= length(L)
+- [x] **(c)**\
+  length(L1) >= length(L)
 
-**(d)**\
-length(L2) <= length(L)
+- [ ] **(d)**\
+  length(L2) <= length(L)
 
 ### Question 6 \[5 Marks\]
 
