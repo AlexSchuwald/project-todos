@@ -82,12 +82,6 @@ Let N be a list of first 50 positive integers (i.e., N = \[1, 2, 3, ……, 49, 
 18  End someList
 ```
 
----
-
----
-
-Question (4-5) \[7 Marks\] ========================
-
 ## **Statement**
 
 Consider the procedure given below. If L1 and L2 are two lists, and L = eliminate(L1, L2), then answer the following questions.
@@ -110,7 +104,7 @@ Consider the procedure given below. If L1 and L2 are two lists, and L = eliminat
 15 End eliminate
 ```
 
-# **Question 4 \[4 Marks\]**
+### **Question 4 \[4 Marks\]**
 
 ## **Statement**
 
