@@ -382,7 +382,7 @@ X is an odd number
 **(d)**\
 X is more than 1
 
-\## Question 10 \[5 Marks\]
+### Question 10 \[5 Marks\]
 
 Consider the procedure discussed above. What will be the value of **M** at the end of the execution of the given pseudocode below?
 
@@ -398,7 +398,7 @@ Consider the procedure discussed above. What will be the value of **M** at the e
 9  }
 ```
 
-### **Options**
+**Options**
 
 (a)\
 **M** = \[11, 7\]
