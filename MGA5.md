@@ -404,14 +404,14 @@ Consider the procedure discussed above. What will be the value of **M** at the e
 
 **Options**
 
-(a)\
-**M** = \[11, 7\]
+- [x] (a)\
+  **M** = \[11, 7\]
 
-(b)\
-**M** = \[11, 23, 7\]
+- [ ] (b)\
+  **M** = \[11, 23, 7\]
 
-(c)\
-**M** = \[11\]
+- [ ] (c)\
+  **M** = \[11\]
 
-(d)\
-**M** = \[23, 7\]
+- [ ] (d)\
+  **M** = \[23, 7\]
