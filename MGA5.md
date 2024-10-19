@@ -1,4 +1,4 @@
-# MGA5
+# CGA5
 
 ### Question-1
 
@@ -27,7 +27,7 @@ Options
 - [x] (d)\
   \[210, 198, 188, 173, 240\]
 
-### Question-2 
+### Question-2
 
 **Statement**
 
@@ -218,13 +218,13 @@ End isPerfect
 
 ` i = 1`
 
-` while(i <= X.LetterCount){ `
+`while(i <= X.LetterCount){`
 
 `A = ith letter in X.Word `
 
 `if(member(C,A)){`
 
-` return(True) `
+`return(True)`
 
 `} `
 
@@ -232,7 +232,7 @@ End isPerfect
 
 `i = i + 1 }`
 
-` return(False) `
+`return(False)`
 
 `End isPerfect`
 
