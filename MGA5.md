@@ -319,10 +319,6 @@ Line 4: Invalid addition operation for appending in posList
 (b)\
 Line 7: Invalid increment of trueCount
 
----
-
----
-
 (c)
 
 Line 9 - 11: These three lines should be replaced by
@@ -343,13 +339,9 @@ count = count + 1
 
 No mistakes
 
----
+## Question (9-10)
 
----
-
-\# Question (9-10)
-
-## **Statement**
+**Statement**
 
 Let a and b be positive integers. Procedure `remainder(a, b)` returns remainder if a is divided by b.
 
@@ -370,13 +362,13 @@ Let a and b be positive integers. Procedure `remainder(a, b)` returns remainder 
 14  End doSomething
 ```
 
-# **Question 9 \[4 Marks\]**
+### **Question 9 \[4 Marks\]**
 
-## **Statement**
+**Statement**
 
 When will procedure `doSomething(X)` return True?
 
-## **Options**
+**Options**
 
 **(a)**\
 X is a prime number
@@ -389,10 +381,6 @@ X is an odd number
 
 **(d)**\
 X is more than 1
-
----
-
----
 
 \## Question 10 \[5 Marks\]
 
