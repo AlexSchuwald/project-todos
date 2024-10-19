@@ -144,17 +144,15 @@ length(L1) >= length(L)
 **(d)**\
 length(L2) <= length(L)
 
----
-
 ### Question 6 \[5 Marks\]
 
-## **Statement**
+**Statement**
 
 A word is said to be perfect if no letter is repeated. Let `isPerfect` be a procedure that takes a row X in the "Words" table as input and returns True if the word in row X is a perfect word otherwise returns False. Choose the correct implementation of the procedure `isPerfect`.
 
-## **Options**
+**Options**
 
-### **(a)**
+**(a)**
 
 ```
 Procedure isPerfect(X)
@@ -173,7 +171,7 @@ Procedure isPerfect(X)
 End isPerfect
 ```
 
-### **(b)**
+**(b)**
 
 ```
 Procedure isPerfect(X)
@@ -193,7 +191,7 @@ Procedure isPerfect(X)
 End isPerfect
 ```
 
-### **(c)**
+**(c)**
 
 ```
 Procedure isPerfect(X)
@@ -210,17 +208,17 @@ Procedure isPerfect(X)
 End isPerfect
 ```
 
----
-
----
-
 (d)
 
-Procedure isPerfect(X) C = \[\] i = 1 while(i <= X.LetterCount){ A = ith letter in X.Word if(member(C,A)){ return(True) } else{ C = C ++ \[A\] } i = i + 1 } return(False) End isPerfect
+`Procedure isPerfect(X)`
 
----
+` C = []`
 
----
+` i = 1`
+
+` while(i <= X.LetterCount){ `
+
+`A = ith letter in X.Word if(member(C,A)){ return(True) } else{ C = C ++ [A] } i = i + 1 } return(False) End isPerfect`
 
 \## Question 7 \[5 Marks\]
 
