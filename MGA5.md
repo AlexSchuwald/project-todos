@@ -374,17 +374,17 @@ When will procedure `doSomething(X)` return True?
 
 **Options**
 
-**(a)**\
-X is a prime number
+- [x] **(a)**\
+  X is a prime number
 
-**(b)**\
-X is an even number
+- [ ] **(b)**\
+  X is an even number
 
-**(c)**\
-X is an odd number
+- [ ] **(c)**\
+  X is an odd number
 
-**(d)**\
-X is more than 1
+- [ ] **(d)**\
+  X is more than 1
 
 ### Question 10 \[5 Marks\]
 
