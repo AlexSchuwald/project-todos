@@ -82,6 +82,8 @@ Let N be a list of first 50 positive integers (i.e., N = \[1, 2, 3, ……, 49, 
 18  End someList
 ```
 
+0
+
 ## **Statement**
 
 Consider the procedure given below. If L1 and L2 are two lists, and L = eliminate(L1, L2), then answer the following questions.
