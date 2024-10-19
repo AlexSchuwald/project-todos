@@ -173,7 +173,7 @@ Procedure isPerfect(X)
 End isPerfect
 ```
 
-**(b)**
+- [x] **(b)**
 
 ```
 Procedure isPerfect(X)
