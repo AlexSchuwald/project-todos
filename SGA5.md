@@ -8,8 +8,6 @@
 
 127
 
-### 3\. Jay bought a new car in New York where a license plate can be created with alphabets A, B, C, D, E, W, X, Y, Z and numbers 0 to 9. He can either select a normal license plate or a VIP license plate. The VIP license plate begins with 2 alphabets followed by 4 numbers with repetition allowed. The normal license plate begins with 2 numbers followed by 3 alphabets without repetition. In how many ways can he select VIP license plate?
-
 ### 4\. Jay bought a new car in New York where a license plate can be created with alphabets A, B, C, D, E, W, X, Y, Z and numbers 0 to 9. He can either select a normal license plate or a VIP license plate. The VIP license plate begins with 2 alphabets followed by 4 numbers with repetition allowed. The normal license plate begins with 2 numbers followed by 3 alphabets without repetition. In how many ways can he select the license plate(normal or VIP)?
 
 ### 5\. Ram has trophies that he wishes to place in his main cabinet, which has space only for two trophies. If the number of trophies is increased by 3, then the number of possible ways to arrange the trophies in the main cabinet becomes 5 times the number of ways to arrange trophies. How many trophies does Ram have?
