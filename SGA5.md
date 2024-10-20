@@ -36,7 +36,7 @@ Options:
 
 2187
 
-### If the value of sum of first 7 non-zero natural numbers is equal to n(n+1)/2, then find the value of 1n?
+### If the value of sum of first 7 non-zero natural numbers is equal to n(n+1)/2, then find the value of 1/n?
 
 ### Adam wrote down a 8-digit university roll number on a piece of paper. On his way home from office, it rained heavily and the paper got wet. Later, he saw that the first 4 digits of the roll number had disappeared. In how many ways can Adam complete this university roll number if repetition of digits is allowed?
 
