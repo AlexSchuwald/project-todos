@@ -1,10 +1,10 @@
 # SGA5
 
-### 1\. Vinod has 3 registers and 5 cover papers of different colours. In how many ways can he cover all the registers with cover papers?
+### Vinod has 3 registers and 5 cover papers of different colours. In how many ways can he cover all the registers with cover papers?
 
 125
 
-### 2\. 7 classmates could not agree on who would stand in the group photo along with the teacher for the yearbook. How many possible groups can be made such that there is at least one student with the teacher in the photo?
+### 7 classmates could not agree on who would stand in the group photo along with the teacher for the yearbook. How many possible groups can be made such that there is at least one student with the teacher in the photo?
 
 ### 3\. Jay bought a new car in New York where a license plate can be created with alphabets A, B, C, D, E, W, X, Y, Z and numbers 0 to 9. He can either select a normal license plate or a VIP license plate. The VIP license plate begins with 2 alphabets followed by 4 numbers with repetition allowed. The normal license plate begins with 2 numbers followed by 3 alphabets without repetition. In how many ways can he select VIP license plate?
 
