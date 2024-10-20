@@ -70,13 +70,13 @@ Options:
 
 Options:
 
-a) 6 + ⁶P₃
+- [ ] a) 6 + ⁶P₃
 
-b) ⁷P₄
+- [ ] b) ⁷P₄
 
-c) 5 x ⁵P₃
+- [ ] c) 5 x ⁵P₃
 
-d) 6 x ⁶P₃
+- [x] d) 6 x ⁶P₃
 
 ### In a restaurant, 12 men and 6 women are seated on 18 chairs at a round table. Find the total number of possible ways such that 12 men are always sitting next to each other.
 
