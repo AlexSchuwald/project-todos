@@ -64,7 +64,7 @@ c) 5×1/0
 
 d) 5 × (3! + (3 × 2) + (3 × 2 × 1))/6
 
-e) 5 × (3! + (3 × 2) + (3 × 2 × 1))
+e) 5 × 18(3! + (3 × 2) + (3 × 2 × 1))
 
 ### Find the total number of ways to form a 4 digit number(without repetition) from the digits 0,1,2, ..., 6.
 
