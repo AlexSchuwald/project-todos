@@ -24,11 +24,13 @@
 
 Options:
 
- 36!/(33!3!)
+a) 36!
 
-b) 36!/33!
+b) 36!/(33!3!)
 
 c) 36!/33!
+
+d) 33!
 
 ### 7 students watched a patriotic movie. An analyst wishes to ask each student whether they liked the movie or not. Each student can either answer the question or refuse to respond. In how many ways, can the analyst get responses from the students?
 
