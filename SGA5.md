@@ -18,6 +18,8 @@
 
 ### Ram has trophies that he wishes to place in his main cabinet, which has space only for two trophies. If the number of trophies is increased by 3, then the number of possible ways to arrange the trophies in the main cabinet becomes 5 times the number of ways to arrange trophies. How many trophies does Ram have?
 
+3
+
 ### There are 36 students in a class. The class teacher announced that the first 3 students who completes a given project within two days will be awarded. What are the possible number of ways the students will be awarded?
 
 Options:
