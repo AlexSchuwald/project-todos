@@ -1,7 +1,5 @@
 # SGA5
 
-Certainly! I'll provide the questions along with their respective options where given:
-
 ### 1\. Vinod has 3 registers and 5 cover papers of different colours. In how many ways can he cover all the registers with cover papers?
 
 ### 2\. 7 classmates could not agree on who would stand in the group photo along with the teacher for the yearbook. How many possible groups can be made such that there is at least one student with the teacher in the photo?
@@ -38,7 +36,7 @@ c) 4!
 
 d) 10⁴
 
-## 10\. Let x = 4!/(5 × 0!). Which of the following expressions is/are equal to x?
+### 10\. Let x = 4!/(5 × 0!). Which of the following expressions is/are equal to x?
 
 Options:
 
