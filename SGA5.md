@@ -82,12 +82,12 @@ Options:
 
 Options:
 
-a) 17!
+- [ ] a) 17!
 
-b) 7! x 12!
+- [ ] b) 7! x 12!
 
-c) 5! x 11!
+- [ ] c) 5! x 11!
 
-d) 6! x 12!
+- [x] d) 6! x 12!
 
 ### Find the value of r such that the ratio of ₃Pᵣ and ₄Pᵣ₋₁ will be 2:1.
