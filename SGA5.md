@@ -52,7 +52,7 @@ Options:
 
 - [x] d) 10⁴
 
-### Let x = 5!/(5 × 0!). Which of the following expressions is/are equal to x?
+### Let x = 5!/(4 × 0!). Which of the following expressions is/are equal to x?
 
 Options:
 
