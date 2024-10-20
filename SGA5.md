@@ -90,4 +90,4 @@ Options:
 
 - [x] d) 6! x 12!
 
-### Find the value of r such that the ratio of ₃Pᵣ and ₄Pᵣ₋₁ will be 2:1.
+### Find the value of r such that the ratio of ₃Pᵣ and ₄Pᵣ₋₁ will be 1/2.
