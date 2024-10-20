@@ -44,13 +44,13 @@ Options:
 
 Options:
 
-a) 10³ x 9
+- [ ] a) 10³ x 9
 
-b) 9⁴
+- [ ] b) 9⁴
 
-c) 4!
+- [ ] c) 4!
 
-d) 10⁴
+- [x] d) 10⁴
 
 ### Let x = 4!/(5 × 0!). Which of the following expressions is/are equal to x?
 
